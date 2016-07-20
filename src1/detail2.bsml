@@ -1,4 +1,4 @@
-<page name="detail2"> 
+<page name="detail2" guid="mat_sys_12_common_package" type="detail"> 
     <log />
     <share />
     <header /> 

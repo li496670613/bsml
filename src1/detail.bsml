@@ -1,4 +1,4 @@
-<page name="detail"> 
+<page name="detail" guid="mat_sys_11_common_topic" type="detail"> 
     <log />
     <share />
     <mobile /> 

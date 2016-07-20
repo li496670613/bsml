@@ -1,4 +1,4 @@
-<page name="poi"> 
+<page name="poi" type="poi"> 
 <log />
 <share />
 <mobile /> 
