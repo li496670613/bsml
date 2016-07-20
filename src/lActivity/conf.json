@@ -1,0 +1,40 @@
+{
+    type: 'lActivity',
+    name: '最新活动',
+    desc: '自定义组件最新活动',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'activity',
+
+    properties: [{
+        name: 'titleUp',
+        text: 'NEWS ACTIVITIES',
+        type: 'text',
+        desc: 'NEWS ACTIVITIES',
+        value: 'NEWS ACTIVITIES'
+    },{
+        name: 'titleDown',
+        text: '最新活动',
+        type: 'text',
+        desc: '最新活动',
+        value: '最新活动'
+    },{
+        name: 'name',
+        text: '名称',
+        type: 'input',
+        desc: '主题名称',
+        value: '精美主题',
+    },{
+        name: 'one',
+        text: '名称',
+        type: 'image',
+        desc: '主题名称',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146892204085.jpg',
+    },{
+        name: 'two',
+        text: '名称',
+        type: 'image',
+        desc: '主题名称',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146892204428.jpg',
+    }]
+}

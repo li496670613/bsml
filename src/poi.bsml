@@ -1,0 +1,12 @@
+<page name="poi"> 
+<def com="lHello"/>
+<def com="lHead"/>
+<def com="lAddress"/>
+<def com="lActivity"/>
+<def com="lScenes" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lBuy"/>
+<def com="lPackage"/>
+<def com="lRemarks"/>
+
+<booking />
+</page>  

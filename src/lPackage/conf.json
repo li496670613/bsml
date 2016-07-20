@@ -1,0 +1,59 @@
+{
+    type: 'lPackage',
+    name: '主题套餐',
+    desc: '自定义组件主题套餐',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'services',
+    zhitcGuid: 'mat_sys_12_common_package',
+
+    properties: [{
+        name: 'titleUp',
+        text: 'THE THEME PACKAGE',
+        type: 'text',
+        desc: 'THE THEME PACKAGE',
+        value: 'THE THEME PACKAGE'
+    },{
+        name: 'titleDown',
+        text: '主题套餐',
+        type: 'text',
+        desc: '主题套餐',
+        value: '主题套餐'
+    },{
+        name: 'actTime',
+        text: '活动时间',
+        type: 'input',
+        desc: '活动时间',
+        value: '活动时间',
+    },{
+        name: 'checkBtn',
+        text: '查看详情',
+        type: 'text',
+        desc: '查看详情',
+        value: '查看详情',
+    },{
+        name: 'packageBtn',
+        text: '点击报名',
+        type: 'text',
+        desc: '点击报名',
+        value: '点击报名',
+    },{
+        name: 'target',
+        text: '详情页链接',
+        type: 'text',
+        desc: '详情页链接',
+        value: 'detail2.html',
+    },{
+        name: 'target2',
+        text: '详情页链接',
+        type: 'text',
+        desc: '详情页链接',
+        value: 'bookPage.html',
+    },{
+        name: 'limit',
+        text: '展示个数',
+        type: 'number',
+        desc: '列表默认展示个数',
+        value: 1
+    }]
+}

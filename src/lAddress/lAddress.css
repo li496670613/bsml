@@ -1,0 +1,8 @@
+.l-poi-address {position:  relative;width: 100%;background: #fff;overflow: hidden;}
+.l-poi-address-info{font-size: 0;text-align: center;margin-top: .1rem;}
+.l-poi-address-info>span{font-size: .28rem;color: #000;display: inline-block;height: .34rem;line-height: .34rem}
+.l-poi-address-info>span:after{content: "";background: url("resources/icon2.png") no-repeat;height: .34rem;width: .34rem;display: inline-block;background-size:cover;vertical-align: bottom;margin-left: .1rem;}
+.address-info-add{margin-top: .1rem;}
+.address-info-add>span{font-size: .28rem;color: #000;display: inline-block;max-width: 4rem;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.address-info-add>a{font-size: .22rem;color: #fa7677;display: inline-block;margin-left: .05rem;text-decoration: none;}
+.address-info-add:after{display: inline-block;content: "";background: url("resources/icon3.png") no-repeat;height: .36rem;width: .25rem;background-size:cover;vertical-align: bottom;margin-left: .1rem;}

@@ -1,0 +1,56 @@
+[{
+    "desrc": "测试用自定义物料",
+    "type": 1,
+    "name": "测试用自定义物料",
+    "en_name": "test",
+    "define": [
+        {
+            "id": "headImage",
+            "type": "image",
+            "title": "头图",
+            "required": 1,
+            "min": "-",
+            "max": "-"
+        },
+        {
+            "id": "name",
+            "type": "text",
+            "title": "名称",
+            "required": 1,
+            "min": "2",
+            "max": "32"
+        },
+        {
+            "id": "description",
+            "type": "text",
+            "title": "简介",
+            "required": 1,
+            "min": "0",
+            "max": "128"
+        },
+        {
+            "id": "information",
+            "type": "text",
+            "title": "详细介绍",
+            "required": 0,
+            "min": "0",
+            "max": "2048"
+        },
+        {
+            "id": "imageList",
+            "type": "list-image",
+            "title": "图集",
+            "required": 1,
+            "min": "0",
+            "max": "10"
+        },
+        {
+            "id": "tags",
+            "type": "list-text",
+            "title": "物料标签",
+            "required": 0,
+            "min": "0",
+            "max": "6"
+        }
+    ]
+}]
