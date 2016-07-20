@@ -1,0 +1,12 @@
+{
+    type: 'comPrice',
+    name: '自定义价格组件', // 用于 editor 显示
+    desc: '自定义价格组件',
+    logo: '',
+    tags: ['基本类'],
+    data: 'detail',
+    zhitcGuid: 'mat_sys_12_common_package',
+
+    // 提供给editor生成编辑表单
+    properties: []
+}
