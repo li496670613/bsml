@@ -12,5 +12,11 @@
     type: 'number',
     desc: '列表默认展示个数',
     value: 2
+  },{
+    name: 'target',
+    text: '详情页链接',
+    type: 'text',
+    desc: '详情页链接',
+    value: 'detail2.html',
   }]
 }
