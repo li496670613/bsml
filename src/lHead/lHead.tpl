@@ -1,6 +1,6 @@
 <section class="l-poi-header">
     <div class="l-poi-header-box">
-        <img src="${poi.poiInfo.first[0].strUrl}"/>
+        <img src="${poi.poiInfo.first[0].strUrl}" data-link="bainuo://component?compid=merchants&comppage=photos" />
         <div class="l-poi-hd-control">
             <div class="l-poi-hd-title">${poi.poiInfo.poi_name}</div>
            <p class="l-poi-hd-info-score">
@@ -24,7 +24,7 @@
         </span>
             {{ /if }}
             {{ if: ${poi.poiInfo.pay_atshop} }}
-        <span class="l-poi-header-info-pay-btn">
+        <span class="l-poi-header-info-pay-btn" data-link="http://t10sc.nuomi.com/paynow/wap/order?merchant_id=${merchant_id}&city_id=${city_id}&from=merchant_detail&channel=nuomi&tiny_url=${poi.poiInfo.shoping_tiny_url}">
             优惠买单
         </span>
             {{ /if }}

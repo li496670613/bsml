@@ -1,4 +1,4 @@
-<page name="serveTextDetail"> 
+<page name="serveTextDetail" type="udf"> 
     <log />
     <share />
     <nav target="serveImgDetail" active="text" />

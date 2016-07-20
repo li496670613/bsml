@@ -1,4 +1,4 @@
-<page name="shop"> 
+<page name="shop" type="shop"> 
     <log />
     <share />
     <merchant hasTarget=false hasImage=true display="detail" />

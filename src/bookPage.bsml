@@ -1,4 +1,4 @@
-<page name="bookPage"> 
+<page name="bookPage" type="udf"> 
     <log />
     <share />
     <gift />

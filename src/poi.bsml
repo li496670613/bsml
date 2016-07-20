@@ -1,12 +1,15 @@
-<page name="poi"> 
-<def com="lHello"/>
-<def com="lHead"/>
-<def com="lAddress"/>
-<def com="lActivity"/>
-<def com="lScenes" zhitcGuid="mat_sys_11_common_topic"/>
-<def com="lBuy"/>
-<def com="lPackage"/>
-<def com="lRemarks"/>
+<page name="poi" type="poi"> 
+    <log />
+    <share />
+    <mobile /> 
+    <def com="lHello"/>
+    <def com="lHead"/>
+    <def com="lAddress"/>
+    <def com="lActivity"/>
+    <def com="lScenes" zhitcGuid="mat_sys_11_common_topic"/>
+    <def com="lBuy"/>
+    <def com="lPackage"/>
+    <def com="lRemarks"/>
 
-<booking />
+    <booking />
 </page>  

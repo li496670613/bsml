@@ -7,6 +7,22 @@ body{
 }
 .widget .zhitc-fixed-bar {font-size: .26rem;}
 .widget .zhitc-fixed-bar-wrap {padding: 0rem;padding: .1rem .1rem;}
+.zhitc-call-phone-title {
+    height: 0.8rem;
+    line-height: 0.85rem;
+    font-size: 0.28rem;
+    color: #333;
+    position: relative;
+    border-bottom: 1px solid #e1e1e1;
+}
+.zhitc-call-phone-wrap {
+    font-size: 0.3em;
+}
+.zhitc-call-phone-value a {
+    margin-left: 0;
+    padding-right: 0;
+}
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
     .widget .zhitc-fixed-bar-btn {height: .48rem;line-height: .48rem;font-size: .3rem;margin-right: .1rem;}
 }
+

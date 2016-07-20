@@ -7,13 +7,18 @@ function bindEvents(me) {
     }
     var $main = $(me.main);
     var url = 'bainuo://panorama?uid=' + me.data.poi.mapInfo.BID;
-    var merchantMapUrl = 'bainuo://merchantmap?shopid='
-        + me.data.poi.poiInfo.poi_id;
+    var merchantMapUrl = 'bainuo://merchantmap?shopid=' + me.data.poi.poiInfo.poi_id;
     $main
         .on('click', '.address-info-add a', function() {
-            BNJS.page.start('bainuo://merchantmap?shopid=' + me.data.poi.poiInfo.poi_id, null, 0);
+            BNJS.page.start(merchantMapUrl, null, 0);
         })
-    .on('click', '.l-poi-address-info>span ', function() {
-        BNJS.page.start(url, {}, 0);
-    })
+        .on('click', '.address-info-add>span ', function() {
+            BNJS.page.start(url, {}, 0);
+            return false;
+        })
+        .on('click', '.l-poi-address-info>span', function() {
+            $('body').trigger('callPhone', {
+                phoneList: me.data.poi.poiInfo.phone.split('|')
+            });
+        });
 }
