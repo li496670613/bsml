@@ -1,0 +1,8 @@
+<page name="bookPage"> 
+    <log />
+    <share />
+    <gift />
+    <gap /> 
+    <bookform />
+</page> 
+

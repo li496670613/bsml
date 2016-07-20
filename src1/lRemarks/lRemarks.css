@@ -1,0 +1,4 @@
+.public-info{background: url("resources/bg4.png") no-repeat top center #f0f0f0;width: 100%;height: 3.45rem;background-size: 6.4rem 3.45rem;padding-top: 1.2rem;}
+.sections-box{position: relative;overflow: hidden;height: 100%;width: 100%;}
+.public-info-detail{font-size: 0;}
+.public-info-detail>span{font-size: .22rem;display: block;text-align: center;margin-top: .4rem;}

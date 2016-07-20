@@ -1,0 +1,94 @@
+{
+    type: 'lScenes',
+    name: '热门场景',
+    desc: '自定义组件热门场景',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'services',
+
+    properties: [{
+        name: 'target',
+        text: '详情页链接',
+        type: 'text',
+        desc: '详情页链接',
+        value: 'detail2',
+    },{
+        name: 'wedding',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'THE LATEST ACTIVITY 婚纱摄影客片欣赏'
+    },{
+        name: 'scenes1',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489298.png'
+    },{
+        name: 'scenes2',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489516.png'
+    },{
+        name: 'scenes3',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489631.png'
+    },{
+        name: 'scenes4',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489696.png'
+    },{
+        name: 'scenes5',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489759.png'
+    },{
+        name: 'scenes6',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489823.png'
+    },{
+        name: 'scenes7',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489906.png'
+    },{
+        name: 'scenes8',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489972.png'
+    },{
+        name: 'scenes9',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854489631.png'
+    },{
+        name: 'scenes10',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854490121.png'
+    },{
+        name: 'scenes11',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854490191.png'
+    },{
+        name: 'scenes12',
+        text: '婚纱摄影',
+        type: 'text',
+        desc: '婚纱摄影',
+        value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146854490262.png'
+    }]
+}

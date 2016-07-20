@@ -1,0 +1,23 @@
+{
+    type: 'lActivity',
+    name: '最新活动',
+    desc: '自定义组件最新活动',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'services',
+    zhitcGuid: 'mat_sys_11_common_topic',
+
+    properties: [{
+        name: 'name',
+        text: '名称',
+        type: 'input',
+        desc: '主题名称',
+        value: '精美主题',
+    },{
+        name: 'limit',
+        text: '展示个数',
+        type: 'number',
+        desc: '列表默认展示个数',
+        value: 2
+    }]
+}

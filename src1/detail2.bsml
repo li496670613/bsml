@@ -1,0 +1,20 @@
+<page name="detail2"> 
+    <log />
+    <share />
+    <header /> 
+    <gap />
+    <detail />
+    <gap />
+    <address />
+    <preview />
+    <gap />
+    <comment />
+    <gap />
+    <services zhitcGuid="mat_sys_12_common_package" />
+    <booking />
+    <gap />
+    <sales />
+    <gap />
+    <mobile />
+</page> 
+

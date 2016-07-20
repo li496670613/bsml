@@ -1,0 +1,22 @@
+{
+    type: 'lPackage',
+    name: '主题套餐',
+    desc: '自定义组件主题套餐',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'sales',
+
+    properties: [{
+        name: 'limit',
+        text: '展示个数',
+        type: 'number',
+        desc: '列表默认展示个数',
+        value: 3
+    },{
+        name: 'target',
+        text: '详情页链接',
+        type: 'text',
+        desc: '详情页链接',
+        value: 'detail2.html',
+    }]
+}

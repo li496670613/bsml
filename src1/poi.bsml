@@ -1,0 +1,15 @@
+<page name="poi"> 
+<log />
+<share />
+<mobile /> 
+<def com="lHello"/>
+<def com="lHead"/>
+<def com="lAddress"/>
+<def com="lAd"/>
+<def com="lActivity" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lBuy"/>
+<def com="lArrive"/>
+<def com="lPackage"/>
+<def com="lRemarks"/>
+<booking />
+</page> 

@@ -1,0 +1,8 @@
+<page name="serveTextDetail"> 
+    <log />
+    <share />
+    <nav target="serveImgDetail" active="text" />
+    <gap /> 
+    <detail content="detail" />
+</page> 
+

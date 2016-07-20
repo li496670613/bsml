@@ -1,0 +1,11 @@
+<page name="shop"> 
+    <log />
+    <share />
+    <merchant hasTarget=false hasImage=true display="detail" />
+    <gap /> 
+    <business dataList="serviceFeatures" />
+    <gap />
+    <carousel />
+    <gap />
+</page> 
+

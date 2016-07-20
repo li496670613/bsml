@@ -1,0 +1,4 @@
+.public-address{background: #f0f0f0;}
+.address-info .head-phone,.address-info .head-address{font-size: .22rem;text-align: center;display: block;margin-top: .3rem;}
+.address-info .head-phone:before{content:"";background: url("resources/phone.png") no-repeat center;height:.35rem;width: .3rem;display: inline-block;background-size: cover;vertical-align: bottom;margin-right: .1rem;}
+.address-info .head-address:before{content:"";background: url("resources/address.png") no-repeat center;height:.36rem;width: .24rem;display: inline-block;background-size: cover;vertical-align: bottom;margin-right: .1rem;}

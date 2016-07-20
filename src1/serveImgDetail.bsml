@@ -1,0 +1,9 @@
+<page name="serveImgDetail"> 
+    <log />
+    <share />
+    <nav target="serveTextDetail" active="img" />
+    <gap /> 
+    <album />
+    <gap />
+</page> 
+

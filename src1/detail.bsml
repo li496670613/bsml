@@ -1,0 +1,18 @@
+<page name="detail"> 
+    <log />
+    <share />
+    <mobile /> 
+    <resume />
+    <preview />
+    <gap />
+    <images />
+    <gap />
+    <topics zhitcGuid="mat_udf_12345_tech" />
+    <gap />
+    <services zhitcGuid="mat_sys_12_common_package" />
+    <gap />
+    <sales />
+    <gap />
+    <booking />
+</page> 
+
