@@ -4,4 +4,4 @@
 .public-arr-info{float: left;font-size: 0;margin-left: .3rem;}
 .public-arr-info>span{font-size: .28rem;color: #1c1c30;margin-top: .3rem;display: block;padding-left: .05rem;width: 4rem;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
 .public-arr-info>p{font-size: .28rem;color:#5f5f5f;margin-top:.3rem; width: 4rem;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
-.public-arr-box>button{float: right;border: none;background: #f0f0f0;color: #5f5f5f;font-size: .22rem;margin-top: .5rem;width:1.1rem;height: .35rem;outline: hidden;}
+.public-arr-box>button{float: right;border: none;background: #f0f0f0;color: #5f5f5f;font-size: .22rem;margin-top: .5rem;width:1.2rem;height: .35rem;outline: hidden;}
