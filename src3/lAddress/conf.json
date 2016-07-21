@@ -1,31 +1,33 @@
 {
   type: 'lAddress',
-  name: '测试',
-  desc: '测试自定义组件',
+  name: '地址信息', // 用于 editor 显示
+  desc: '展示门店地址信息',
   logo: '',
-  tags: ['直通车-自定义'],
+  tags: ['基本类'],
   data: 'poi',
 
-  properties: [{
-    name: 'subject',
-    text: '展示样式',
+  // 提供给editor生成编辑表单
+  properties: [ {
+    name: 'isShowDistance',
+    text: '是否展示距离',
+    type: 'boolean',
+    desc: '是否展示距离',
+    value: true
+  }, {
+    name: 'mode',
+    text: '展示内容',
     type: 'singleSelect',
-    desc: '展示样式',
-    value: 'compact',
-    options: [{
-      type: 'compact',
-      text: '紧凑排列',
-      value: 'compact'
-    }, {
-      type: 'loose',
-      text: '松散排列',
-      value: 'loose'
-    }]
-  },{
-    name: 'name',
-    text: '名称',
-    type: 'input',
-    desc: '主题名称',
-    value: '精美主题',
+    desc: '排列样式',
+    value: 'rich',
+    options:[{
+      type: 'simple',
+      text: '简单版本',
+      value: 'simple'
+    },
+      {
+        type: 'rich',
+        text: '丰富版本',
+        value: 'rich'
+      }]
   }]
 }

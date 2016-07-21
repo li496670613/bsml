@@ -2,14 +2,14 @@
     <div class="wd-hd-info-down">
         <p class="wd-hd-info-address-item wd-hd-info-address-item-address">
             <span class="wd-hd-info-address-address">
-                <!--{{ if: ${properties.isShowDistance} !== false && ${poiInfo.distance} }}-->
+                {{ if: ${properties.isShowDistance} !== false && ${poi.poiInfo.distance} }}
                 <span class="wd-hd-info-address-distance">
-                    距您约<i>${poiInfo.distance}</i>
+                    距您约<i>${poi.poiInfo.distance}</i> |
                 </span>
-                <!--{{ /if }}-->
-                <!--${poiInfo.address}-->
+                {{ /if }}
+                ${poi.poiInfo.address}
             </span>
-            <!--{{ if: ${mapInfo.BID} }}-->
+            {{ if: ${poi.mapInfo.BID} }}
             <span class="wd-hd-info-address-map">
                 看全景
             </span>

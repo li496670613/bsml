@@ -1,6 +1,20 @@
 /**
  * Created by Administrator on 2016/7/18.
  */
+function init(me){
+    var distance = Math.round(me.data.poi.poiInfo.distance);
+    me.data.poi.poiInfo.distance = null;
+    if (distance === -1) {
+        return;
+    }
+    if (0 < distance && distance < 1000) {
+        me.data.poi.poiInfo.distance = distance + 'm'
+    } else if (distance <= 99000 ) {
+        me.data.poi.poiInfo.distance = Math.round(distance / 100) / 10 + 'km';
+    } else {
+        me.data.poi.poiInfo.distance = '99+km';
+    }
+}
 function bindEvents(me) {
     if (!me.data.poi.poiInfo || !me.data.poi.mapInfo) {
         return;
@@ -9,16 +23,11 @@ function bindEvents(me) {
     var url = 'bainuo://panorama?uid=' + me.data.poi.mapInfo.BID;
     var merchantMapUrl = 'bainuo://merchantmap?shopid=' + me.data.poi.poiInfo.poi_id;
     $main
-        .on('click', '.address-info-add a', function() {
+        .on('click', '.wd-hd-info-address-address', function() {
             BNJS.page.start(merchantMapUrl, null, 0);
         })
-        .on('click', '.address-info-add>span ', function() {
+        .on('click', '.wd-hd-info-address-map ', function() {
             BNJS.page.start(url, {}, 0);
             return false;
-        })
-        .on('click', '.l-poi-address-info>span', function() {
-            $('body').trigger('callPhone', {
-                phoneList: me.data.poi.poiInfo.phone.split('|')
-            });
         });
 }
