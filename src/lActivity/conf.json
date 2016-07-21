@@ -4,7 +4,7 @@
     desc: '自定义组件最新活动',
     logo: '',
     tags: ['直通车-自定义'],
-    data: 'activity',
+    data: 'preference',
 
     properties: [{
         name: 'titleUp',
