@@ -1,5 +1,5 @@
 {
-  type: 'lBuy',
+  type: 'lTopic',
   name: '头部',
   desc: '自定义组件头部',
   logo: '',

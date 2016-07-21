@@ -5,6 +5,6 @@
             <span>${preference[0].title}</span>
             <p>${preference[0].content}</p>
         </div>
-        <button type="button" data-link="${properties.target}?id=${preference.id}">>>详情</button>
+        <button type="button" data-link="${properties.target}?id=${preference[0].id}">>>详情</button>
     </div>
 </section>

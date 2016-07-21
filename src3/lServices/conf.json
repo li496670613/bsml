@@ -1,5 +1,5 @@
 {
-  type: 'lBuy',
+  type: 'lServices',
   name: '头部',
   desc: '自定义组件头部',
   logo: '',
@@ -7,18 +7,6 @@
   data: 'services',
 
   properties: [{
-    name: 'phone',
-    text: '电话',
-    type: 'text',
-    desc: '24小时咨询热线',
-    value: '24小时咨询热线'
-  },{
-    name: 'address',
-    text: '地址',
-    type: 'text',
-    desc: '找到我们',
-    value: '找到我们',
-  }, {
     name: 'limit',
     text: '展示个数',
     type: 'number',

@@ -20,7 +20,7 @@
 
 .wd-hd-info{overflow: hidden;margin-top: .15rem;}
 .wd-hd-info-up{position: relative;overflow: hidden;}
-.wd-hd-info-pay-btn{float: left;width: .64rem;height: .59rem;background: #eb8417;text-align: center;font-size: .24rem;color: #110f0f;margin-left: .35rem;line-height: .28rem;font-weight: bold;}
+.wd-hd-info-pay-btn{float: left;width: .64rem;height: .59rem;background: #eb8417;text-align: center;font-size: .24rem;color: #110f0f;margin-left: .35rem;line-height: .28rem;font-weight: bold;padding-top: .02rem;}
 .wd-hd-phone{font-size: .22rem;color: #000;float: left;margin-left: .15rem;line-height: .59rem;width: 2.6rem;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
 
 
