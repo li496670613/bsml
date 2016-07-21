@@ -1,0 +1,8 @@
+<page name="bookPage" type="udf"> 
+    <log />
+    <share />
+    <gift />
+    <gap /> 
+    <bookform />
+</page> 
+

@@ -1,0 +1,18 @@
+{
+    type: 'comClass',
+    name: '展示精美主题的详细信息', // 用于 editor 显示
+    desc: '展示精美主题的详细信息',
+    logo: '',
+    tags: ['基本类'],
+    data: 'detail',
+    zhitcGuid: 'mat_sys_11_common_topic',
+
+    // 提供给editor生成编辑表单
+    properties: [{
+        name: 'limit',
+        text: '展示个数',
+        type: 'number',
+        desc: '列表默认展示个数',
+        value: 2
+    }]
+}

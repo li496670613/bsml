@@ -1,0 +1,30 @@
+{
+    type: 'comDetail',
+    name: '自定义套餐详情组件', // 用于 editor 显示
+    desc: '自定义套餐详情组件',
+    logo: '',
+    tags: ['基本类'],
+    data: 'detail',
+    zhitcGuid: 'mat_udf_12345_wedding',
+
+    // 提供给editor生成编辑表单
+    properties: [{
+        name: 'title',
+        text: '标题',
+        type: 'text',
+        desc: '标题',
+        value: '套餐详情'
+    }, {
+        name: 'target',
+        text: '跳转目标',
+        type: 'text',
+        desc: '跳转目标',
+        value: ''
+    },{
+        name: 'limit',
+        text: '限制展示个数',
+        type: 'number',
+        desc: '限制展示个数',
+        value: 4
+    }]
+}

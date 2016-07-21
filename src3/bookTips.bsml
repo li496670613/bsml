@@ -1,0 +1,8 @@
+<page name="bookTips" type="udf"> 
+    <log />
+    <share />
+    <bookresult />
+    <gap /> 
+    <services zhitcGuid="mat_sys_12_common_package" />
+</page> 
+

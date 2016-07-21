@@ -1,0 +1,18 @@
+<page name="detail2" guid="mat_sys_12_common_package" type="detail"> 
+    <log />
+    <share />
+    <header /> 
+    <def com="comPrice" name="自定义价格组件" />
+    <gift />
+    <bus />
+    <gap />
+    <detail />
+    <gap />
+    <services title="推荐套餐" limit="3" zhitcGuid="mat_sys_12_common_package" />
+    <gap />
+    <sales title="为您推荐" subject="grid" />
+    <gap />
+    <booking />
+    <mobile /> 
+</page> 
+

@@ -1,0 +1,31 @@
+.ti3{background: url("resources/ti3.png") no-repeat center;background-size: cover;height: .81rem}
+
+.wedding-services-box{}
+
+
+.wedding-services-item{overflow: hidden;}
+.wedding-services-item li{width: 6rem;height: 3.2rem;margin: .15rem auto 0;border: 5px solid #e3e3e3;padding: 1px;overflow: hidden;position: relative;}
+.wedding-services-item li>img{width: 100%;height: 100%;display: block;}
+.we-services{width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
+.we-services>span{position: absolute; font-size: .32rem;}
+.we-services>em{position: absolute;font-size: .26rem;font-style: normal;display: inline-block;background: #febac7;padding:0 2px;color: #fff;}
+.we-services>i{position: absolute;font-size: .24rem;font-style: normal;display: inline-block;background: #febac7;padding:0 2px;color: #fff;}
+.we-services>b{position: absolute;font-size: .24rem;font-style: normal;font-weight:normal;display: inline-block;background: #febac7;padding:0 2px;color: #fff;}
+
+.stay-l>span{top: .95rem;left: .4rem;}
+.stay-l>em{top: 1.45rem;left: .4rem;}
+.stay-l>i{top: 1.9rem;left: .4rem;}
+.stay-l>b{top: 1.9rem;left: 1.5rem;}
+.stay-r>span{top: .95rem;right: .1rem;}
+.stay-r>em{top: 1.45rem;right: .1rem;}
+.stay-r>i{top: 1.9rem;right: 1.2rem;}
+.stay-r>b{top: 1.9rem;right: .1rem;}
+.check-more{width: 100%;text-align: center;font-size: 0;position: relative;margin: .2rem 0 .4rem;background: url("resources/mores-img.png") no-repeat center;background-size: 6.4rem auto;}
+.check-more:before{left: 0;}
+.check-more:after{right: 0;}
+.check-more:after{top: 50%;margin-top: -1px;}
+.check-more>span{font-size: .2rem;color: #000;}
+.check-more>p{font-size: .18rem;color: #000;}
+
+
+.content-hide{display: none;}
