@@ -1,6 +1,6 @@
 .ti3{background: url("resources/ti3.png") no-repeat center;background-size: cover;height: .81rem}
 
-.wedding-services-box{}
+.wedding-services{background: #fff;overflow: hidden;}
 
 
 .wedding-services-item{overflow: hidden;}
