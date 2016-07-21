@@ -12,11 +12,11 @@
               </span>
                <span class="head-score-count">
                 </span>
-                <!--{{ if: ${poi.poiInfo.per_price} }}-->
+               {{ if: ${poi.poiInfo.per_price} }}
                    <span class="head-score-per">
-                   ¥30/人
+                   ${poi.poiInfo.per_price}元/人
                    </span>
-                <!--{{ /if }}-->
+                {{ /if }}
             </p>
 
         </div>

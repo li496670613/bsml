@@ -1,1 +1,2 @@
-.public-ad{background: url("resources/bgs.png") no-repeat center #f0f0f0;width: 100%;height: 6rem;background-size: contain;}
+.public-ad{background: #f0f0f0;width: 100%;height: 6.4rem;padding: .2rem 0;overflow: hidden;}
+.public-ad img{width: 100%;height: 100%;display: block;}
