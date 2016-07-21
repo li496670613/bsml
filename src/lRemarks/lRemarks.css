@@ -1,6 +1,49 @@
-.l-poi-remarks{background: #fff;overflow: hidden;}
-.remarks-body{background: url("resources/bbbg.png") no-repeat center;width: 6rem;height:6rem;background-size: cover;margin: 0 auto;overflow: hidden;}
-.remarks-body h2{width: 4.45rem;text-align: center;font-size: .3rem;font-weight: bold;color: #333;margin: 1.4rem auto .4rem;}
-.remarks-body p{width: 4.45rem;font-size: .24rem;color: #333;text-align: center;margin: 0 auto;font-weight: bold;}
-.remarks-body button{width: .94rem;height: .4rem;color: #333;font-size: .16rem;display: block;margin: .4rem auto 0;background: transparent;border: 1px solid #333;}
-.l-poi-remarks:after{content: '';background: url("resources/wel.jpg") no-repeat center;background-size: 3.41rem .96rem;display: block;width: 3.41rem;height: .96rem;margin: .3rem auto .2rem;}
+.l-poi-remarks {
+    background: #fff;
+    overflow: hidden;
+}
+.remarks-body {
+    background: url("resources/bbbg.png") no-repeat center;
+    width: 6rem;
+    height: 6rem;
+    background-size: cover;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.remarks-body h2 {
+    width: 4.45rem;
+    text-align: center;
+    font-size: .3rem;
+    font-weight: bold;
+    color: #333;
+    margin: 1.4rem auto .4rem;
+}
+.remarks-body p {
+    width: 4.45rem;
+    font-size: .24rem;
+    color: #333;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    max-height: 1.98rem;
+    overflow: hidden;
+}
+.remarks-body button {
+    width: .94rem;
+    height: .4rem;
+    color: #333;
+    font-size: .16rem;
+    display: block;
+    margin: .4rem auto 0;
+    background: transparent;
+    border: 1px solid #333;
+}
+.l-poi-remarks:after {
+    content: '';
+    background: url("resources/wel.jpg") no-repeat center;
+    background-size: 3.41rem .96rem;
+    display: block;
+    width: 3.41rem;
+    height: .96rem;
+    margin: .3rem auto .2rem;
+}

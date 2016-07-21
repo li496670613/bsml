@@ -1,6 +1,6 @@
 <section class="l-poi-header">
     <div class="l-poi-header-box">
-        <img src="${poi.poiInfo.first[0].strUrl}" data-link="bainuo://component?compid=merchants&comppage=photos" />
+        <img src="${poi.poiInfo.image" data-link="bainuo://component?compid=merchants&comppage=photos" />
         <div class="l-poi-hd-control">
             <div class="l-poi-hd-title">${poi.poiInfo.poi_name}</div>
            <p class="l-poi-hd-info-score">
