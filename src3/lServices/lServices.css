@@ -3,8 +3,8 @@
 .wedding-services{background: #fff;overflow: hidden;}
 
 
-.wedding-services-item{overflow: hidden;}
-.wedding-services-item li{width: 6rem;height: 3.2rem;margin: .15rem auto 0;border: 5px solid #e3e3e3;padding: 1px;overflow: hidden;position: relative;}
+.wedding-services-item{overflow: hidden;margin-top: .15rem}
+.wedding-services-item li{width: 6rem;height: 3.2rem;margin: 0 auto .15rem;border: 5px solid #e3e3e3;padding: 1px;overflow: hidden;position: relative;}
 .wedding-services-item li>img{width: 100%;height: 100%;display: block;}
 .we-services{width: 100%;height: 100%;position: absolute;top: 0;left: 0;}
 .we-services>span{position: absolute; font-size: .32rem;}
