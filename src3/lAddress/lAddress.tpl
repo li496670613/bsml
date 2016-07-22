@@ -9,11 +9,12 @@
                 {{ /if }}
                 ${poi.poiInfo.address}
             </span>
-            {{ if: ${poi.mapInfo.BID} }}
+            {{ if: ${poi.mapInfo.BID} && ${poi.mapInfo.BID.length} > 0 }}
             <span class="wd-hd-info-address-map">
                 看全景
             </span>
             {{ /if }}
+
         </p>
     </div>
 </section>

@@ -11,6 +11,15 @@ function bindEvents(me) {
         "width": scoreStyle
     });
     $(".wd-hd-info-score-count").html(average_score);
+    if (!me.data.poi.poiInfo) {
+        return;
+    }
+    var $main = $(me.main);
+    $main.on('click', '.wd-hd-phone', function() {
+        $('body').trigger('callPhone', {
+            phoneList: me.data.poi.poiInfo.phone.split('|')
+        });
+    });
 
     function Swipe(container, options) {
 
@@ -18,15 +27,17 @@ function bindEvents(me) {
 
         // utilities
         var noop = function() {}; // simple no operation function
-        var offloadFn = function(fn) { setTimeout(fn || noop, 0) }; // offload a functions execution
+        var offloadFn = function(fn) {
+            setTimeout(fn || noop, 0)
+        }; // offload a functions execution
 
         // check browser capabilities
         var browser = {
-            addEventListener: !!window.addEventListener,
+            addEventListener: !! window.addEventListener,
             touch: ('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch,
             transitions: (function(temp) {
                 var props = ['transformProperty', 'WebkitTransform', 'MozTransform', 'OTransform', 'msTransform'];
-                for ( var i in props ) if (temp.style[ props[i] ] !== undefined) return true;
+                for (var i in props) if (temp.style[props[i]] !== undefined) return true;
                 return false;
             })(document.createElement('swipe'))
         };
@@ -55,7 +66,7 @@ function bindEvents(me) {
 
             // stack elements
             var pos = slides.length;
-            while(pos--) {
+            while (pos--) {
 
                 var slide = slides[pos];
 
@@ -77,14 +88,14 @@ function bindEvents(me) {
 
         function prev() {
 
-            if (index) slide(index-1);
-            else if (options.continuous) slide(slides.length-1);
+            if (index) slide(index - 1);
+            else if (options.continuous) slide(slides.length - 1);
 
         }
 
         function next() {
 
-            if (index < slides.length - 1) slide(index+1);
+            if (index < slides.length - 1) slide(index + 1);
             else if (options.continuous) slide(0);
 
         }
@@ -96,8 +107,8 @@ function bindEvents(me) {
 
             if (browser.transitions) {
 
-                var diff = Math.abs(index-to) - 1;
-                var direction = Math.abs(index-to) / (index-to); // 1:right -1:left
+                var diff = Math.abs(index - to) - 1;
+                var direction = Math.abs(index - to) / (index - to); // 1:right -1:left
 
                 while (diff--) move((to > index ? to : index) - diff - 1, width * direction, 0);
 
@@ -130,16 +141,10 @@ function bindEvents(me) {
 
             if (!style) return;
 
-            style.webkitTransitionDuration =
-                style.MozTransitionDuration =
-                    style.msTransitionDuration =
-                        style.OTransitionDuration =
-                            style.transitionDuration = speed + 'ms';
+            style.webkitTransitionDuration = style.MozTransitionDuration = style.msTransitionDuration = style.OTransitionDuration = style.transitionDuration = speed + 'ms';
 
             style.webkitTransform = 'translate(' + dist + 'px,0)' + 'translateZ(0)';
-            style.msTransform =
-                style.MozTransform =
-                    style.OTransform = 'translateX(' + dist + 'px)';
+            style.msTransform = style.MozTransform = style.OTransform = 'translateX(' + dist + 'px)';
 
         }
 
@@ -172,7 +177,7 @@ function bindEvents(me) {
 
                 }
 
-                element.style.left = (( (to - from) * (Math.floor((timeElap / speed) * 100) / 100) ) + from) + 'px';
+                element.style.left = (((to - from) * (Math.floor((timeElap / speed) * 100) / 100)) + from) + 'px';
 
             }, 4);
 
@@ -207,15 +212,25 @@ function bindEvents(me) {
             handleEvent: function(event) {
 
                 switch (event.type) {
-                    case 'touchstart': this.start(event); break;
-                    case 'touchmove': this.move(event); break;
-                    case 'touchend': offloadFn(this.end(event)); break;
+                    case 'touchstart':
+                        this.start(event);
+                        break;
+                    case 'touchmove':
+                        this.move(event);
+                        break;
+                    case 'touchend':
+                        offloadFn(this.end(event));
+                        break;
                     case 'webkitTransitionEnd':
                     case 'msTransitionEnd':
                     case 'oTransitionEnd':
                     case 'otransitionend':
-                    case 'transitionend': offloadFn(this.transitionEnd(event)); break;
-                    case 'resize': offloadFn(setup.call()); break;
+                    case 'transitionend':
+                        offloadFn(this.transitionEnd(event));
+                        break;
+                    case 'resize':
+                        offloadFn(setup.call());
+                        break;
                 }
 
                 if (options.stopPropagation) event.stopPropagation();
@@ -251,7 +266,7 @@ function bindEvents(me) {
             move: function(event) {
 
                 // ensure swiping with one touch and not pinching
-                if ( event.touches.length > 1 || event.scale && event.scale !== 1) return
+                if (event.touches.length > 1 || event.scale && event.scale !== 1) return
 
                 if (options.disableScroll) event.preventDefault();
 
@@ -264,8 +279,8 @@ function bindEvents(me) {
                 }
 
                 // determine if scrolling test has run - one time test
-                if ( typeof isScrolling == 'undefined') {
-                    isScrolling = !!( isScrolling || Math.abs(delta.x) < Math.abs(delta.y) );
+                if (typeof isScrolling == 'undefined') {
+                    isScrolling = !! (isScrolling || Math.abs(delta.x) < Math.abs(delta.y));
                 }
 
                 // if user is not trying to scroll vertically
@@ -278,19 +293,16 @@ function bindEvents(me) {
                     stop();
 
                     // increase resistance if first or last slide
-                    delta.x =
-                        delta.x /
-                        ( (!index && delta.x > 0               // if first slide and sliding left
-                            || index == slides.length - 1        // or if last slide and sliding right
-                            && delta.x < 0                       // and if sliding at all
-                        ) ?
-                            ( Math.abs(delta.x) / width + 1 )      // determine resistance level
-                            : 1 );                                 // no resistance if false
+                    delta.x = delta.x / ((!index && delta.x > 0 // if first slide and sliding left
+                            || index == slides.length - 1 // or if last slide and sliding right
+                            && delta.x < 0 // and if sliding at all
+                        ) ? (Math.abs(delta.x) / width + 1) // determine resistance level
+                            : 1); // no resistance if false
 
                     // translate 1:1
-                    translate(index-1, delta.x + slidePos[index-1], 0);
+                    translate(index - 1, delta.x + slidePos[index - 1], 0);
                     translate(index, delta.x + slidePos[index], 0);
-                    translate(index+1, delta.x + slidePos[index+1], 0);
+                    translate(index + 1, delta.x + slidePos[index + 1], 0);
 
                 }
 
@@ -301,15 +313,13 @@ function bindEvents(me) {
                 var duration = +new Date - start.time;
 
                 // determine if slide attempt triggers next/prev slide
-                var isValidSlide =
-                    Number(duration) < 250               // if slide duration is less than 250ms
-                    && Math.abs(delta.x) > 20            // and if slide amt is greater than 20px
-                    || Math.abs(delta.x) > width/2;      // or if slide amt is greater than half the width
+                var isValidSlide = Number(duration) < 250 // if slide duration is less than 250ms
+                    && Math.abs(delta.x) > 20 // and if slide amt is greater than 20px
+                    || Math.abs(delta.x) > width / 2; // or if slide amt is greater than half the width
 
                 // determine if slide attempt is past start and end
-                var isPastBounds =
-                    !index && delta.x > 0                            // if first slide and slide amt is greater than 0
-                    || index == slides.length - 1 && delta.x < 0;    // or if last slide and slide amt is less than 0
+                var isPastBounds = !index && delta.x > 0 // if first slide and slide amt is greater than 0
+                    || index == slides.length - 1 && delta.x < 0; // or if last slide and slide amt is less than 0
 
                 // determine direction of swipe (true:right, false:left)
                 var direction = delta.x < 0;
@@ -321,16 +331,16 @@ function bindEvents(me) {
 
                         if (direction) {
 
-                            move(index-1, -width, 0);
-                            move(index, slidePos[index]-width, speed);
-                            move(index+1, slidePos[index+1]-width, speed);
+                            move(index - 1, -width, 0);
+                            move(index, slidePos[index] - width, speed);
+                            move(index + 1, slidePos[index + 1] - width, speed);
                             index += 1;
 
                         } else {
 
-                            move(index+1, width, 0);
-                            move(index, slidePos[index]+width, speed);
-                            move(index-1, slidePos[index-1]+width, speed);
+                            move(index + 1, width, 0);
+                            move(index, slidePos[index] + width, speed);
+                            move(index - 1, slidePos[index - 1] + width, speed);
                             index += -1;
 
                         }
@@ -339,9 +349,9 @@ function bindEvents(me) {
 
                     } else {
 
-                        move(index-1, -width, speed);
+                        move(index - 1, -width, speed);
                         move(index, 0, speed);
-                        move(index+1, width, speed);
+                        move(index + 1, width, speed);
 
                     }
 
@@ -392,7 +402,9 @@ function bindEvents(me) {
 
         } else {
 
-            window.onresize = function () { setup() }; // to play nice with old IE
+            window.onresize = function() {
+                setup()
+            }; // to play nice with old IE
 
         }
 
@@ -440,7 +452,7 @@ function bindEvents(me) {
 
                 // reset slides
                 var pos = slides.length;
-                while(pos--) {
+                while (pos--) {
 
                     var slide = slides[pos];
                     slide.style.width = '100%';
@@ -462,8 +474,7 @@ function bindEvents(me) {
                     element.removeEventListener('transitionend', events, false);
                     window.removeEventListener('resize', events, false);
 
-                }
-                else {
+                } else {
 
                     window.onresize = null;
 
@@ -472,24 +483,23 @@ function bindEvents(me) {
             }
         }
     }
-    var obj=$("#hd-slider-count");
-    var liLength=$("#hd-slider .swipe-wrap>div").length;
+    var obj = $("#hd-slider-count");
+    var liLength = $("#hd-slider .swipe-wrap>div").length;
     for (var i = 0; i < liLength; i++) {
         obj.append("<li></li>");
     }
     var bullets = obj.find("li");
     bullets.eq(0).addClass("on");
-    var slider =
-        Swipe($("#hd-slider")[0], {
-            auto: 3000,
-            continuous: true,
-            callback: function(pos) {
-                var i = bullets.length;
-                while (i--) {
-                    bullets.eq(i).removeClass("on");
-                }
-                bullets.eq(pos).addClass("on");
+    var slider = Swipe($("#hd-slider")[0], {
+        auto: 3000,
+        continuous: true,
+        callback: function(pos) {
+            var i = bullets.length;
+            while (i--) {
+                bullets.eq(i).removeClass("on");
             }
-        });
+            bullets.eq(pos).addClass("on");
+        }
+    });
 
 }

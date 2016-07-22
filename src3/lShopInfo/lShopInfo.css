@@ -1,5 +1,39 @@
-.wedding-bsinfo{background: #fff;overflow: hidden;}
-.wedding-bsinfo-box{background: url("resources/info-bg.png") no-repeat;background-size: 6.4rem 3.3rem;position: relative;}
-.wedding-bsinfo-info{text-align: left;font-size: .2rem;color: #000;padding-top: 1.6rem;height: 3.3rem;line-height: .4rem;font-family: "SimHei",sans-serif;padding-left: .5rem;}
-.wedding-bsinfo-info>p{width: 5.2rem;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;margin-top: .08rem}
-.wedding-bsinfo-box>button{background: transparent;color: #000;font-size: .22rem;border: none;position: absolute;right: .3rem;bottom: .3rem;}
+.wedding-bsinfo {
+    background: #fff;
+    overflow: hidden;
+}
+
+.wedding-bsinfo-box {
+    background: url("resources/info-bg.png") no-repeat;
+    background-size: 6.4rem 3.3rem;
+    position: relative;
+}
+
+.wedding-bsinfo-info {
+    text-align: left;
+    font-size: .2rem;
+    color: #000;
+    padding-top: 1.6rem;
+    height: 3.3rem;
+    line-height: .4rem;
+    font-family: "SimHei",sans-serif;
+    padding-left: .5rem;
+}
+
+.wedding-bsinfo-info>p {
+    width: 5.2rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-top: .08rem
+}
+
+.wedding-bsinfo-box>button {
+    background: transparent;
+    color: #000;
+    font-size: .22rem;
+    border: none;
+    position: absolute;
+    right: .3rem;
+    bottom: .3rem;
+}

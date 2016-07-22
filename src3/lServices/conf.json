@@ -17,12 +17,12 @@
     text: '详情页链接',
     type: 'text',
     desc: '详情页链接',
-    value: 'detail2.html',
+    value: 'detail2',
   },{
     name: 'target2',
     text: '详情页链接',
     type: 'text',
     desc: '详情页链接',
-    value: 'bookPage.html',
+    value: 'bookPage',
   }]
 }

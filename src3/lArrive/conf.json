@@ -17,6 +17,6 @@
     text: '详情页链接',
     type: 'text',
     desc: '详情页链接',
-    value: 'bookPage.html',
+    value: 'bookPage',
   }]
 }
