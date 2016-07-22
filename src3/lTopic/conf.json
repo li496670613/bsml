@@ -1,7 +1,7 @@
 {
   type: 'lTopic',
-  name: '头部',
-  desc: '自定义组件头部',
+  name: '主要经营',
+  desc: '自定义组件主要经营',
   logo: '',
   tags: ['直通车-自定义'],
   data: 'services',

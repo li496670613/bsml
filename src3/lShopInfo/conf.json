@@ -1,7 +1,7 @@
 {
   type: 'lShopInfo',
-  name: '头部',
-  desc: '自定义组件头部',
+  name: '商家信息',
+  desc: '自定义组件商家信息',
   logo: '',
   tags: ['直通车-自定义'],
   data: 'shop',

@@ -1,7 +1,7 @@
 {
   type: 'lAd',
-  name: '头部',
-  desc: '自定义组件头部',
+  name: '广告展示',
+  desc: '自定义组件广告展示',
   logo: '',
   tags: ['直通车-自定义'],
   data: 'poi',
