@@ -4,7 +4,7 @@
         <span>优惠活动</span>
     </div>
     <div class="l-poi-activity">
-    {{ for: ${activity} as ${item}, ${index} }}
+    {{ for: ${preference} as ${item}, ${index} }}
         <div class="ac-left" data-link="bookPage">
             {{ if: ${index} == 0 }}
             <img src="${properties.one}"/>

@@ -5,6 +5,7 @@
   logo: '',
   tags: ['直通车-自定义'],
   data: 'services',
+  zhitcGuid: 'mat_sys_12_common_package',
 
   properties: [{
     name: 'limit',
@@ -17,6 +18,6 @@
     text: '详情页链接',
     type: 'text',
     desc: '详情页链接',
-    value: 'detail2.html',
+    value: 'detail2',
   }]
 }

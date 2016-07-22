@@ -6,12 +6,12 @@
     <ul class="boutique-list">
    {{ for: ${sales.tuanList} as ${item}, ${index} }}
          <li class="{{ if: ${index} >= ${properties.limit} }}content-hide{{ /if }}">
+                     
                      <img src="${item.image}" data-link="bainuo://tuandetail?tuanid=${item.id}" />
                      <div class="boutique-item-info">
-                         <h3 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.business_title}</h3>
-                         <span>${item.tags}</span>
+                         <h3 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.min_title}</h3>
                          <div class="package-money"><span>RMB:</span><div><b>${item.current_price}</b><s>${item.market_price}</s></div></div>
-                         <p>${item.title_high_price}<a href="javascript:;" data-link="bainuo://tuandetail?tuanid=${item.id}" >查看详情</a></p>
+                         <p>${item.title_high_price}</p>
                      </div>
                  </li>
        {{ /for }}

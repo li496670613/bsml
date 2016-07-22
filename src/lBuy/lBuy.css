@@ -1,18 +1,97 @@
-.l-poi-boutique{background: #fff;overflow: hidden;}
-.boutique-list li{padding: 0 .12rem;overflow: hidden;margin-bottom: .2rem;list-style: none;}
-.boutique-list li>img{width: 3.12rem;height: 2.91rem;float: left;}
-.boutique-item-info{float: right;width: 2.95rem;font-size: 0;}
-.boutique-item-info>h3{font-size: .36rem;color: #000;line-height: .62rem;}
-.boutique-item-info>span{font-size: .24rem;color: #fe0004;}
+.l-poi-boutique {
+    background: #fff;
+    overflow: hidden;
+}
+.boutique-list li {
+    padding: 0 .12rem;
+    overflow: hidden;
+    margin-bottom: .28rem;
+    list-style: none;
+}
+.boutique-list li>img {
+    width: 3.05rem;
+    float: left;
+}
+.boutique-item-info {
+    float: right;
+    width: 2.95rem;
+    font-size: 0;
+}
+.boutique-item-info>h3 {
+    font-size: .26rem;
+    color: #000;
+    line-height: .5rem;
+    height: .62rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    display: inline-block;
+    white-space: nowrap;
+}
+.boutique-item-info>span {
+    font-size: .24rem;
+    color: #fe0004;
+}
+.boutique-item-info>p {
+    font-size: .24rem;
+    color: #000;
+    margin-top: .2rem;
+    line-height: .32rem;
 
-.boutique-item-info>p{font-size: .24rem;color: #000;margin-top: .2rem;}
-.boutique-item-info>p a{font-size: .22rem;color: #fe4245;text-decoration: underline;}
-
-.package-money{margin:.25rem 0;width: 3rem;font-size: .17rem;color: #595959;font-family: simsun,sans-serif;}
-.package-money:after{content: "";display: table;width: 0;height: 0;clear: both;visibility: hidden;}
-.package-money span{font-size: .24rem;font-weight: bold;float: left;}
-.package-money div{float: left;margin-top: -.1rem}
-.package-money b{font-size: .36rem;color: #e39fa0;font-family: "Microsoft Yahei", sans-serif}
-.package-money s{font-size: .24rem;color: #000;display: block;margin-left: .05rem}
-.content-hide{display: none;}
-.serve-more{background: url("resources/mores.png") no-repeat center;background-size: .37rem .44rem;height: .44rem;width: .37rem;margin: .2rem auto;}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.boutique-item-info>p a {
+    font-size: .22rem;
+    color: #fe4245;
+    text-decoration: underline;
+}
+.package-money {
+    margin: .1rem 0;
+    width: 3rem;
+    font-size: .17rem;
+    color: #595959;
+    font-family: simsun, sans-serif;
+}
+.package-money:after {
+    content: "";
+    display: table;
+    width: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.package-money span {
+    font-size: .24rem;
+    font-weight: bold;
+    float: left;
+    font-family: "Microsoft Yahei",sans-serif;
+}
+.package-money div {
+    float: left;
+    margin-top: -.1rem
+}
+.package-money b {
+    font-size: .36rem;
+    color: #e39fa0;
+    font-family: "Microsoft Yahei", sans-serif
+}
+.package-money s {
+    font-size: .24rem;
+    color: #000;
+    margin-left: .15rem;
+    font-family: "Microsoft Yahei",sans-serif;
+}
+.content-hide {
+    display: none;
+}
+.serve-more {
+    background: url("resources/mores.png") no-repeat center;
+    background-size: .37rem .44rem;
+    height: .44rem;
+    width: .37rem;
+    margin: .2rem auto;
+}

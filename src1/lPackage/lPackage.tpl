@@ -10,7 +10,7 @@
             <div class="project-item-info">
             <div class="project-item-info-title">
                 <em></em>
-                <h3 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.business_title}</h3>
+                <h3 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.min_title}</h3>
                 </div>
                 <span>&yen;${item.current_price}</span>
                 <s>&yen;${item.market_price}</s>

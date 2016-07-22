@@ -9,7 +9,7 @@ function bindEvents(me) {
     var url = 'bainuo://panorama?uid=' + me.data.poi.mapInfo.BID;
     var merchantMapUrl = 'bainuo://merchantmap?shopid=' + me.data.poi.poiInfo.poi_id;
     $main.on('click', '.head-address ', function() {
-            BNJS.page.start(url, {}, 0);
+            BNJS.page.start(merchantMapUrl, {}, 0);
             return false;
         })
         .on('click', '.head-phone', function() {

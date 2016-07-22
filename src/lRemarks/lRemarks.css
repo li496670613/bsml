@@ -17,6 +17,10 @@
     font-weight: bold;
     color: #333;
     margin: 1.4rem auto .4rem;
+    text-overflow: ellipsis;
+    height: 1.1em;
+    overflow: hidden;
+    line-height: 1.2em;
 }
 .remarks-body p {
     width: 4.45rem;
@@ -27,6 +31,11 @@
     font-weight: bold;
     max-height: 1.98rem;
     overflow: hidden;
+
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
 }
 .remarks-body button {
     width: .94rem;

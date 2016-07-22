@@ -5,6 +5,7 @@
     logo: '',
     tags: ['直通车-自定义'],
     data: 'services',
+    zhitcGuid: 'mat_sys_11_common_topic',
 
     properties: [{
         name: 'target',

@@ -1,7 +1,7 @@
 <section class="public-head">
     <div class="sections-box">
         <div class="head-box-up">
-            <img src="${poi.poiInfo.first[0].strUrl}" alt=""/>
+            <img src="${poi.poiInfo.image}" class="head-box-up-img" alt=""/>
             <div class="head-title">
                 <h3>${poi.poiInfo.poi_name}</h3>
                 <span>${poi.poiInfo.poi_dist}</span>
@@ -20,10 +20,10 @@
             </p>
 
         </div>
-        <div class="head-box-down">
           {{ if: ${poi.poiInfo.pay_atshop} }}
-            <div class="head-buy" data-link="http://t10sc.nuomi.com/paynow/wap/order?merchant_id=${merchant_id}&city_id=${city_id}&from=merchant_detail&channel=nuomi&tiny_url=${poi.poiInfo.shoping_tiny_url}">优惠买单</div>
-          {{ /if }}
+        <div class="head-box-down">
+            <div class="head-buy">优惠买单</div>
         </div>
+          {{ /if }}
     </div>
 </section>
