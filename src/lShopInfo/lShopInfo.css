@@ -100,21 +100,21 @@
 }
 
 
-@media only screen and (min-device-width: 768px){
-    .remarks-body{
-        -webkit-transform: scale(2);
-        -moz-transform: scale(2);
-        -ms-transform: scale(2);
-        -o-transform: scale(2);
-        transform: scale(2);
-        margin-top: 10rem;
-    }
-    .l-poi-remarks:after{
-        -webkit-transform: scale(2);
-        -moz-transform: scale(2);
-        -ms-transform: scale(2);
-        -o-transform: scale(2);
-        transform: scale(2);
-        margin-top: 12rem;
-    }
-}
+/*@media only screen and (min-device-width: 781px){*/
+    /*.remarks-body{*/
+        /*-webkit-transform: scale(2);*/
+        /*-moz-transform: scale(2);*/
+        /*-ms-transform: scale(2);*/
+        /*-o-transform: scale(2);*/
+        /*transform: scale(2);*/
+        /*margin-top: 10rem;*/
+    /*}*/
+    /*.l-poi-remarks:after{*/
+        /*-webkit-transform: scale(2);*/
+        /*-moz-transform: scale(2);*/
+        /*-ms-transform: scale(2);*/
+        /*-o-transform: scale(2);*/
+        /*transform: scale(2);*/
+        /*margin-top: 12rem;*/
+    /*}*/
+/*}*/

@@ -116,11 +116,17 @@
 .package-item-info .package-btn {
     width: 100%;
     overflow: hidden;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
     margin-top: 1.125rem;
 }
 
 .checks,.apply {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
     flex: 1;
     margin-right: 0.1875rem;
     color: #fff;

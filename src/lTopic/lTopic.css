@@ -56,6 +56,10 @@
 }
 
 .scenes-box-down {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
     margin-top:0.5625rem;
     overflow: hidden;
@@ -63,6 +67,8 @@
 
 .img-box {
     overflow: hidden;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
     flex: 1;
 }
 
