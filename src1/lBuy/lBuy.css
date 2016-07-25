@@ -1,7 +1,7 @@
 .public-item {
     background: url("resources/bg2.png") no-repeat top center #f0f0f0;
     width: 100%;
-    padding-top: 1.48rem;
+    padding-top: 1rem;
     background-size: 6.4rem 9.15rem;
 }
 .item-show {

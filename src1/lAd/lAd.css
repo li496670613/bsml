@@ -2,7 +2,7 @@
     background: #f0f0f0;
     width: 100%;
     min-height: 3.4rem;
-    padding: .2rem 0;
+    padding: .2rem 0 0.65rem;
     overflow: hidden;
 }
 .public-ad img {

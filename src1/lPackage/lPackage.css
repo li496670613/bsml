@@ -1,9 +1,8 @@
 .public-project {
     background: url("resources/bg3.png") no-repeat top center #f0f0f0;
     width: 100%;
-    min-height: 11.35rem;
     background-size: 6.4rem 11.35rem;
-    padding-top: 1.4rem;
+    padding: 1.0rem 0 0.5rem;
 }
 .project-item {
     overflow: hidden;
@@ -81,4 +80,5 @@
 .project-item-img>img {
     height: 100%;
     display: block;
+    margin-left: -25%;
 }

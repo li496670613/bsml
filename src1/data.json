@@ -1,39 +1,4 @@
 {
-    "poi": {
-        "poiInfo": {
-            "poi_id": "4206826",
-            "poi_name": "伊塔拉水晶杯",
-            "per_price": 40,
-            "poi_dist": "芬兰设计的代名词",
-            "business_hours": "10:00-19:00",
-            "pay_atshop": 1,
-            "photo_list": {
-                "env": [
-                    {
-                        "strUrl": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146909077762.png"
-                    }
-                ],
-                "dish": []
-            },
-            "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146897876608.jpg",
-            "first": [
-                {
-                    "strUrl": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146897876608.jpg"
-                }
-            ],
-            "phone": "13612345678",
-            "distance": -1,
-            "address": "沈阳市浑南新区奥体中心南30米"
-        },
-        "mapInfo": {
-            "BID": "4c34ba768d654a8a48cc4ae1",
-            "hasinter": 0,
-            "hasstreet": 1
-        },
-        "scoreInfo": {
-            "average_score": 4.58667
-        }
-    },
     "map": {
         "poiInfo": {
             "poi_id": "4206826",

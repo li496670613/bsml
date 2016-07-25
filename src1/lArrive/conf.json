@@ -4,7 +4,7 @@
   desc: '自定义组件头部',
   logo: '',
   tags: ['直通车-自定义'],
-  data: 'preference',
+  data: 'poi',
 
   properties: [{
     name: 'name',

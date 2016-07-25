@@ -1,3 +1,5 @@
 <section class="public-ad">
-    <img src="${poi.poiInfo.photo_list.env[0].strUrl}"/>
+{{ if: ${shop.imageList.content.length} > 0 }}
+    <img src="${shop.imageList.content[0]}"/>
+{{ /if }}
 </section>

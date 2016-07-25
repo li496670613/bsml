@@ -1,7 +1,7 @@
 <section class="public-head">
     <div class="sections-box">
         <div class="head-box-up">
-            <img src="${poi.poiInfo.image}" class="head-box-up-img" alt=""/>
+            <img src="${poi.poiInfo.photo_list.first[0].strPUrl}" class="head-box-up-img" alt=""/>
             <div class="head-title">
                 <h3>${poi.poiInfo.poi_name}</h3>
                 <span>${poi.poiInfo.poi_dist}</span>

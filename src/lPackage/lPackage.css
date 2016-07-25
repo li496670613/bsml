@@ -15,4 +15,4 @@
 .checks{float: left;background: #ed9e9e;border-bottom: 2px solid #e07878;}
 .apply{float: right;background: #71c2c0;border-bottom: 2px solid #4dadab;}
 .content-hide{display: none;}
-.serve-more{background: url("resources/mores.png") no-repeat center;background-size: .37rem .44rem;height: .44rem;width: .37rem;margin: .2rem auto;}
+.serve-more{background: url("resources/mores.png") no-repeat center;background-size: .37rem .44rem;height: .44rem;width:100%;margin: .2rem auto;}

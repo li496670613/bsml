@@ -1,9 +1,8 @@
 .public-info {
     background: url("resources/bg4.png") no-repeat top center #f0f0f0;
     width: 100%;
-    height: 3.45rem;
     background-size: 6.4rem 3.45rem;
-    padding-top: 1.2rem;
+    padding-top: 0.8rem;
 }
 .sections-box {
     position: relative;
@@ -18,6 +17,17 @@
     font-size: .22rem;
     display: block;
     text-align: center;
-    margin-top: .4rem;
+    margin-top: .2rem;
     padding: 0 .4rem;
+    line-height: 1.3;
+}
+.public-info .check-more {
+    font-size: .22rem;
+    text-align: right;
+    right: .15rem;
+    position: absolute;
+    bottom: .2rem;
+}
+.public-info .sections-box{
+    padding-bottom: .6rem;
 }

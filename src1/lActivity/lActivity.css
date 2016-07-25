@@ -2,7 +2,8 @@
     background: url("resources/bg1.png") no-repeat top center #f0f0f0;
     width: 100%;
     background-size: 6.4rem 8.75rem;
-    padding-top: 1.2rem;
+    padding-top: 1rem;
+    padding-bottom: 0.3rem;
 }
 .public-topic-box {
     overflow: hidden;
@@ -43,7 +44,7 @@
     float: right;
 }
 .item-info>h3 {
-    font-size: .36rem;
+    font-size: .32rem;
     margin: .2rem 0;
 }
 .item-info>span {
