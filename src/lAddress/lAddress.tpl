@@ -8,7 +8,7 @@
         <div class="address-info-add">
             <span>${poi.poiInfo.address}</span>
             {{ if: ${poi.mapInfo.BID} && ${poi.mapInfo.BID.length} > 0 }}
-            <a href="javascript:;">查看全景</a>
+            <button type="button">查看全景</button>
             {{ /if }}
         </div>
     </div>

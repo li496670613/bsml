@@ -18,7 +18,7 @@ function bindEvents(me) {
         });
     if (me.data.poi.mapInfo.BID) {
         var url = 'bainuo://panorama?uid=' + me.data.poi.mapInfo.BID;
-        $main.on('click', '.address-info-add>a ', function() {
+        $main.on('click', '.address-info-add>button ', function() {
             BNJS.page.start(url, {}, 0);
             return false;
         });
