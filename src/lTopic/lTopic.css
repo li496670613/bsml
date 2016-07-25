@@ -1,0 +1,108 @@
+.l-poi-scenes {
+    background: #fff;
+    overflow: hidden;
+}
+.l-poi-title {
+    text-align: center;
+    overflow: hidden;
+    padding-top: 1.5625rem;
+}
+
+.l-poi-title p {
+    color: #8e8787;
+    text-align: center;
+    font-family:  Arial,sans-serif;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+}
+
+.l-poi-title span {
+    color: #e39fa0;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    font-size: 125%;
+}
+
+.l-poi-title span:before,.l-poi-title span:after {
+    content: "";
+    width: 5rem;
+    height: 3px;
+    background: #5f5f5f;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.l-poi-title span:before {
+    margin-right: 0.625rem
+}
+
+.l-poi-title span:after {
+    margin-left: 0.625rem
+}
+
+
+.boutique-list{
+    margin-top: 0.625rem
+}
+.scenes-box {
+    padding: 0.625rem .5rem;
+}
+
+.scenes-box-up {
+    width: 100%;
+    height:auto;
+}
+
+.scenes-box-down {
+    display: flex;
+    margin-top:0.5625rem;
+    overflow: hidden;
+}
+
+.img-box {
+    overflow: hidden;
+    flex: 1;
+}
+
+.img-box img {
+    width: 100%;
+    display: block;
+}
+
+.scenes-box-up .img-box {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scenes-box-down .img-box {
+    position: relative;
+    margin: 0 0.125rem
+}
+
+.img-box span {
+    position: absolute;
+    color: #fff;
+    bottom: .15rem;
+    left: 0.5rem;
+    z-index: 3;
+    font-size: 93.75%;
+}
+
+.scenes-box-up .img-box span {
+    font-size: 112%;
+}
+
+.scenes-box-down .img-box:last-child:after {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url(resources/add.png) no-repeat center rgba(0,0,0,.4);
+    top: 0;
+    left: 0;
+    background-size: 27px 27px;
+}

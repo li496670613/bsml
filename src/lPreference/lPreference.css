@@ -1,0 +1,90 @@
+.l-poi-active {
+    overflow: hidden;
+    background: #fff;
+}
+.l-poi-title {
+    text-align: center;
+    overflow: hidden;
+    padding-top: 1.5625rem;
+}
+
+.l-poi-title p {
+    color: #8e8787;
+    text-align: center;
+    font-family:  Arial,sans-serif;
+    margin-bottom: 0.2rem;
+    font-weight: bold;
+}
+
+.l-poi-title span {
+    color: #e39fa0;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    font-size: 125%;
+}
+
+.l-poi-title span:before,.l-poi-title span:after {
+    content: "";
+    width: 5rem;
+    height: 3px;
+    background: #5f5f5f;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.l-poi-title span:before {
+    margin-right: 0.625rem
+}
+
+.l-poi-title span:after {
+    margin-left: 0.625rem
+}
+
+.l-poi-activity {
+    overflow: hidden;
+    padding: 0.625rem 0.5rem;
+}
+.ac-left {
+    position: relative;
+    float: left;
+    width: 50%;
+    padding: 0 0.375rem;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ac-left>em {
+    position: absolute;
+    font-style: normal;
+    color: #fff;
+    background: url("resources/pd.png") no-repeat center;
+    height: 52.5px;
+    width: 23px;
+    top: 0;
+    left: 0.8rem;
+    text-align: center;
+    background-size: cover;
+    white-space: pre-wrap;
+    padding-top:0.125rem;
+}
+.ac-left>img {
+    width: 100%;
+    display: block;
+}
+.ac-left>p {
+    width: 100%;
+    line-height: 1.5625rem;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background: #929292;
+    font-family: "Microsoft Yahei";
+    padding: 0 .5rem;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
