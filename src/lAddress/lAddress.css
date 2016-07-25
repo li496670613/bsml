@@ -70,6 +70,7 @@ margin-left: 0.625rem
     margin-left: 0.625rem;
     vertical-align: text-bottom;
 }
+.address-info-add{font-size: 0}
 .address-info-add>span{
     color: #000;
     display: inline-block;
@@ -78,25 +79,28 @@ margin-left: 0.625rem
     white-space: nowrap;
     line-height: 1.625rem;
     max-width: 15.625rem;
+    font-size: 1rem;
+    vertical-align: bottom;
 }
 
-.address-info-add>button {
-    font-size: 75%;
+.address-info-add>.look-all {
+    font-size: 0.75rem;
     color: #fa7677;
-    display: inline-block;
+    display:inline-block;
     background: transparent;
     border: none;
-    line-height: 1.625rem;
-    vertical-align: 35%;
     padding: 0;
+    -webkit-text-size-adjust:none;
+    letter-spacing: 0;
+    line-height: 1.625rem;
+    font-style: normal;
 }
 
 .address-info-add:after {
     display: inline-block;
     content: "";
     background: url("resources/icon3.png") no-repeat;
-    height: 18px;
+    height: 19px;
     width: 13px;
     background-size: cover;
-    vertical-align: 35%;
 }
