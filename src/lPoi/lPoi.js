@@ -5,7 +5,7 @@ function init(me, data) {
 
 function bindEvents(me) {
     var score = me.data.poi.scoreInfo;
-    var scoreStyle = score.average_score ? score.average_score/ 5 * 82 + 'px' : score.average_score + 'px';
+    var scoreStyle = score.average_score ? score.average_score/ 5 * 32.25 + 'vw' : score.average_score + 'px';
     var average_score = Math.round(score.average_score * 10) / 10;
     $(".l-poi-hd-info-score-empty").css({
         "width": scoreStyle

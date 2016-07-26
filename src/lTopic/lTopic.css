@@ -3,17 +3,23 @@
     background-size: 100% 100%!important;
     overflow: hidden;
 }
+.lTopic *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 .l-poi-title {
     text-align: center;
     overflow: hidden;
-    padding-top: 1.5625rem;
+    padding-top: 7.8125vw;
 }
 
 .l-poi-title p {
     color: #8e8787;
     text-align: center;
     font-family:  Arial,sans-serif;
-    margin-bottom: 0.2rem;
+    margin-bottom: 1vw;
+    font-size: 4.68vw;
     font-weight: bold;
 }
 
@@ -23,12 +29,12 @@
     display: block;
     font-weight: bold;
     position: relative;
-    font-size: 125%;
+    font-size: 6.25vw;
 }
 
 .l-poi-title span:before,.l-poi-title span:after {
     content: "";
-    width: 5rem;
+    width: 23.43vw;
     height: 3px;
     background: #5f5f5f;
     display: inline-block;
@@ -36,19 +42,15 @@
 }
 
 .l-poi-title span:before {
-    margin-right: 0.625rem
+    margin-right: 1.56vw;
 }
 
 .l-poi-title span:after {
-    margin-left: 0.625rem
+    margin-left: 1.56vw;
 }
 
-
-.boutique-list{
-    margin-top: 0.625rem
-}
 .scenes-box {
-    padding: 0.625rem .5rem;
+    padding: 1.56vw 1.25vw;
 }
 
 .scenes-box-up {
@@ -62,7 +64,7 @@
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    margin-top:0.5625rem;
+    margin-top:2.8125vw;
     overflow: hidden;
 }
 
@@ -81,25 +83,25 @@
 .scenes-box-up .img-box {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 43.75vw;
 }
 
 .scenes-box-down .img-box {
     position: relative;
-    margin: 0 0.125rem
+    margin: 0 0.625vw
 }
 
 .img-box span {
     position: absolute;
     color: #fff;
-    bottom: .15rem;
-    left: 0.5rem;
+    bottom: 1.5vw;
+    left: 2vw;
     z-index: 3;
-    font-size: 93.75%;
+    font-size: 4.6875vw;
 }
 
 .scenes-box-up .img-box span {
-    font-size: 112%;
+    font-size: 5.625vw;
 }
 
 .scenes-box-down .img-box:last-child:after {
@@ -111,5 +113,5 @@
     background: url(resources/add.png) no-repeat center rgba(0,0,0,.4);
     top: 0;
     left: 0;
-    background-size: 27px 27px;
+    background-size: 5.21vw 5.21vw;
 }

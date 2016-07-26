@@ -23,6 +23,6 @@
     text: '展示个数',
     type: 'number',
     desc: '列表默认展示个数',
-    value: 3
+    value: 1
   }]
 }

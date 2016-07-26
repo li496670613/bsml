@@ -3,17 +3,23 @@
     background-size: 100% 100%!important;
     overflow: hidden;
 }
+.lServices *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 .l-poi-title {
     text-align: center;
     overflow: hidden;
-    padding-top: 1.5625rem;
+    padding-top: 7.8125vw;
 }
 
 .l-poi-title p {
     color: #8e8787;
     text-align: center;
     font-family:  Arial,sans-serif;
-    margin-bottom: 0.2rem;
+    margin-bottom: 1vw;
+    font-size: 4.68vw;
     font-weight: bold;
 }
 
@@ -23,12 +29,12 @@
     display: block;
     font-weight: bold;
     position: relative;
-    font-size: 125%;
+    font-size: 6.25vw;
 }
 
 .l-poi-title span:before,.l-poi-title span:after {
     content: "";
-    width: 5rem;
+    width: 23.43vw;
     height: 3px;
     background: #5f5f5f;
     display: inline-block;
@@ -36,56 +42,44 @@
 }
 
 .l-poi-title span:before {
-    margin-right: 0.625rem
+    margin-right: 1.56vw;
 }
 
 .l-poi-title span:after {
-    margin-left: 0.625rem
+    margin-left: 1.56vw;
 }
 
-.ser-money {
-    font-size: 93.75%;
-    color: #e39fa0;
-    margin-top: 0.75rem;
-    font-family: "Microsoft Yahei", sans-serif
-}
 
-.ser-money{
-    font-size: 125%;
-}
-.ser-money span{
-    font-size: 75%;
-}
+
+
 .package-list {
     overflow: hidden;
     list-style: none;
-    padding: .625rem 0.5rem;
+    padding: 1.56vw 1.25vw;
 }
 
 .package-list li {
-    margin-bottom: 0.75rem;
+    margin-bottom: 4.06vw;
     overflow: hidden;
 }
 
 .package-list li>img {
     float: left;
-    width: 50%;
+    width: 45.31vw;
+    height: 31.25vw;
     display: block;
 }
 
 .package-item-info {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
     float: right;
-    width: 50%;
-    padding-top: 0.3125rem;
-    padding-left: 0.375rem;
+    width: 50.78vw;
+    padding-top: 1vw;
+    padding-left: 1vw;
 
 }
 
 .package-item-info>span {
-    font-size: 125%;
+    font-size: 3.75vw;
     font-weight: bold;
     color: #333;
     display: block;
@@ -96,58 +90,63 @@
 
 .package-item-info .package-time {
     border: 1px solid #e3e3e3;
-    margin: 0.3125rem 0;
-    padding: 0.25rem;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    margin: 1vw 0;
+    padding: 1vw 0;
+
 }
 
 .package-item-info .package-time>span {
     color: #6bb8b6;
-    font-size: 68.75%;
+    font-size: 3.43vw;
 }
 
 .package-item-info .package-time>em {
     font-style: normal;
     color: #77bdc2;
-    font-size: 68.75%;
+    font-size: 3.43vw;
 }
 
+.ser-money {
+    font-size: 3.75vw;
+    color: #e39fa0;
+    margin-top: 4.21vw;
+    font-family: "Microsoft Yahei", sans-serif
+}
+
+.ser-money{
+    font-size: 4.68vw;
+}
+.ser-money span{
+    font-size: 3.75vw;
+}
 .package-item-info .package-btn {
     width: 100%;
     overflow: hidden;
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    margin-top: 0.25rem;
+    margin-top: 4.5vw;
 }
 
 .checks,.apply {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1;
-    flex: 1;
-    margin-right: 0.1875rem;
     color: #fff;
-    font-size: 81.25%;
+    font-size: 4.0625vw;
     display: block;
     text-decoration: none;
     text-align: center;
-    border-radius: 2px;
-    padding: 0.3125rem ;
-    line-height: 1.375;
+    border-radius: 0.3vw;
+    width: 23.8vw;
+    height: 6.5625vw;
+
 }
 
 .checks {
     background: #ed9e9e;
     border-bottom: 2px solid #e07878;
+    float: left;
 }
 
 .apply {
     background: #71c2c0;
     border-bottom: 2px solid #4dadab;
+    float: right;
 }
 
 .content-hide {
@@ -156,31 +155,9 @@
 
 .serve-more {
     background: url("resources/mores.png") no-repeat center;
-    background-size: 18px 22px;
-    height: 22px;
-    width: 18px;
-    margin: 0.625rem auto;
-}
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2){
-
-    .package-item-info>span{font-size: 75%;}
-    .ser-money{
-        font-size: 100%;
-    }
-    .ser-money span{
-        font-size: 75%;
-    }
-    .package-item-info .package-time{
-        padding: 0;
-    }
-    .package-item-info .package-btn{
-        margin-top: 0.2rem;
-    }
-}
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px){
-    .package-item-info .package-btn{
-        margin-top: 1rem;
-    }
+    background-size: 5.78vw 6.875vw;
+    height: 6.875vw;
+    width: 5.78vw;
+    margin: 2vw auto;
 }
 

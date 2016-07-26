@@ -1,6 +1,6 @@
 <section class="lPoi">
     <div class="l-poi-header-box">
-        <img src="${poi.poiInfo.photo_list.first[0].strPUrl}" class="l-poi-header-box-img" />
+        <img src="${poi.poiInfo.mid_image}" class="l-poi-header-box-img" />
         <div class="l-poi-hd-control">
             <div class="l-poi-hd-title">${poi.poiInfo.poi_name}</div>
            <p class="l-poi-hd-info-score">
