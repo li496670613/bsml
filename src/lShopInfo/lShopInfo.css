@@ -97,6 +97,7 @@
     border: 1px solid #333;
     width: 14.0625vw;
     height: 6.25vw;
+    font-size:3.125vw;
 }
 .lShopInfo:after {
     content: '';
