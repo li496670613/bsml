@@ -1,5 +1,6 @@
-.l-poi-remarks {
-    background: #fff;
+.lShopInfo {
+    background: url(resources/lShopInfo.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
     overflow: hidden;
 }
 .l-poi-title {

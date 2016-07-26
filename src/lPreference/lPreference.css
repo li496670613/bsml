@@ -1,6 +1,7 @@
-.l-poi-active {
+.lPreference {
     overflow: hidden;
-    background: #fff;
+    background: url(resources/lPreference.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
 }
 .l-poi-title {
     text-align: center;

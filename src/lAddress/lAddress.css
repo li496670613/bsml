@@ -1,7 +1,8 @@
-.l-poi-address {
+.lAddress {
     position: relative;
     width: 100%;
-    background: #fff;
+    background: url(resources/lAddress.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
     overflow: hidden;
 }
 .l-poi-title {

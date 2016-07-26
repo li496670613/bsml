@@ -1,4 +1,4 @@
-<section class="l-poi-header">
+<section class="lPoi">
     <div class="l-poi-header-box">
         <img src="${poi.poiInfo.photo_list.first[0].strPUrl}" class="l-poi-header-box-img" />
         <div class="l-poi-hd-control">

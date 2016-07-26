@@ -1,4 +1,4 @@
-<section class="l-poi-package">
+<section class="lServices">
     <div class="l-poi-title">
         <p>BOUTIQUE BUY</p>
         <span>主题套餐</span>

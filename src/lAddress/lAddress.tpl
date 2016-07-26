@@ -1,4 +1,4 @@
-<section class="l-poi-address">
+<section class="lAddress">
     <div class="l-poi-title">
         <p>CONTACT US</p>
         <span>联系我们</span>

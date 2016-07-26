@@ -1,4 +1,4 @@
-<section class="l-poi-remarks">
+<section class="lShopInfo">
     <div class="l-poi-title">
         <p>NEW REMARKS</p>
         <span>商家信息</span>

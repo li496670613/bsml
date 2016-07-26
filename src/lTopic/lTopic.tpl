@@ -1,4 +1,4 @@
-<section class="l-poi-scenes">
+<section class="lTopic">
     <div class="l-poi-title">
         <p>HOT SCENES</p>
         <span>热门场景</span>

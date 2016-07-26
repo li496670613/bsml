@@ -1,4 +1,4 @@
-<section class="l-poi-boutique">
+<section class="lSales">
     <div class="l-poi-title">
         <p>THE THEME PACKAGE</p>
         <span>精品团购</span>

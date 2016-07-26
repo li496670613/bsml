@@ -1,4 +1,4 @@
-<section class="l-poi-active">
+<section class="lPreference">
     <div class="l-poi-title">
         <p>NEWS ACTIVITIES</p>
         <span>优惠活动</span>
