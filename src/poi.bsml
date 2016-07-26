@@ -9,6 +9,5 @@
     <def com="lSales"/>
     <def com="lServices"/>
     <def com="lShopInfo"/>
-
     <booking />
 </page>  

@@ -56,12 +56,8 @@
     position: absolute;
     bottom: 0;
     margin: 0;
-    white-space: nowrap;
-    word-wrap: normal;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: inline-block;
     left: 11vw;
+    width: 100%;
 }
 .l-poi-hd-info-score:before {
     content: '';
