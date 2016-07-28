@@ -1,5 +1,5 @@
 {
-  type: 'lArrive',
+  type: 'lActivity3',
   name: '到店付',
   desc: '自定义组件到店付',
   logo: '',

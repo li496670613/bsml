@@ -1,5 +1,5 @@
 {
-  type: 'lTopic',
+  type: 'lTopic3',
   name: '主要经营',
   desc: '自定义组件主要经营',
   logo: '',

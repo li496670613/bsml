@@ -1,4 +1,4 @@
-<section class="wedding-head">
+<section class="lPoi3">
     <div class="wedding-head-box">
         <div class="head-info">
             <div class="head-info-box">

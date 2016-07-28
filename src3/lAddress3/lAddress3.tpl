@@ -1,4 +1,4 @@
-<section class="wedding-address">
+<section class="lAddress3">
     <div class="wd-hd-info-down">
         <p class="wd-hd-info-address-item wd-hd-info-address-item-address">
             <span class="wd-hd-info-address-address">

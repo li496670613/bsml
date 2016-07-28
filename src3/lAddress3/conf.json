@@ -1,5 +1,5 @@
 {
-  type: 'lAddress',
+  type: 'lAddress3',
   name: '地址信息', // 用于 editor 显示
   desc: '展示门店地址信息',
   logo: '',

@@ -5,35 +5,35 @@
 
 .wedding-bsinfo-box {
     background: url("resources/info-bg.png") no-repeat;
-    background-size: 6.4rem 3.3rem;
+    background-size: 100% 100%;
     position: relative;
 }
 
 .wedding-bsinfo-info {
     text-align: left;
-    font-size: .2rem;
+    font-size: 3.125vw;
     color: #000;
-    padding-top: 1.6rem;
-    height: 3.3rem;
-    line-height: .4rem;
+    padding-top: 25vw;
+    height: 51.5625vw;
+    line-height:6.25vw;
     font-family: "SimHei",sans-serif;
-    padding-left: .5rem;
+    padding-left: 7.8125vw;
 }
 
 .wedding-bsinfo-info>p {
-    width: 5.2rem;
+    width: 81.25vw;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    margin-top: .08rem
+    margin-top: 1.25vw;
 }
 
 .wedding-bsinfo-box>button {
     background: transparent;
     color: #000;
-    font-size: .22rem;
+    font-size: 3.4375vw;
     border: none;
     position: absolute;
-    right: .3rem;
-    bottom: .3rem;
+    right: 4.6875vw;
+    bottom: 4.6875vw;
 }

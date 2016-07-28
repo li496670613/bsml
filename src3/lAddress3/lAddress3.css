@@ -1,54 +1,54 @@
-.wedding-address {
+.lAddress3 {
     background: #fff;
     overflow: hidden;
 }
 
 .wd-hd-info-down {
-    height: 1rem;
+    height: 15.625vw;
     width: 100%
 }
 
 .wd-hd-info-address-item-address {
-    font-size: .22rem;
+    font-size: 3.4375vw;
     color: #000;
     position: relative;
-    padding-top: .2rem;
+    padding-top: 3.125vw;
     overflow: hidden;
 }
 
 .wd-hd-info-address-address {
     float: left;
     border-right: 2px solid #333;
-    height: .76rem;
-    padding-left: .75rem;
-    width: 4.9rem;
+    height:11.875vw;
+    padding-left: 11.71875vw;
+    width: 76.5625vw;
     overflow: hidden;
-    line-height: .38rem;
+    line-height: 5.9375vw;
 }
 
 .wd-hd-info-address-address:before {
     content: "";
     background: url("resources/i1.png") no-repeat center;
     display: block;
-    height: .34rem;
-    width: .26rem;
+    height: 5.3125vw;
+    width: 4.0625vw;
     background-size: cover;
     position: absolute;
-    left: .28rem;
-    top: .28rem;
+    left: 4.375vw;
+    top: 4.375vw;
 }
 
 .wd-hd-info-address-map {
     float: left;
-    margin-left: .4rem;
+    margin-left: 6.25vw;
 }
 
 .wd-hd-info-address-map:before {
     content: "";
     background: url("resources/i2.png") no-repeat center;
     display: block;
-    height: .29rem;
-    width: .21rem;
+    height: 4.53125vw;
+    width: 3.28125vw;
     background-size: cover;
-    margin: .08rem auto
+    margin: 1.25vw auto
 }

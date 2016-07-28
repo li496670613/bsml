@@ -1,7 +1,7 @@
 .ti3 {
     background: url("resources/ti3.png") no-repeat center;
     background-size: cover;
-    height: .81rem
+    height: 12.65625vw;
 }
 
 .wedding-services {
@@ -11,13 +11,13 @@
 
 .wedding-services-item {
     overflow: hidden;
-    margin-top: .15rem
+    margin-top: 2.34375vw
 }
 
 .wedding-services-item li {
-    width: 6rem;
-    height: 3.2rem;
-    margin: 0 auto .15rem;
+    width: 93.75vw;
+    height: 50vw;
+    margin: 0 auto 2.34375vw;
     border: 5px solid #e3e3e3;
     padding: 1px;
     overflow: hidden;
@@ -40,12 +40,12 @@
 
 .we-services>span {
     position: absolute;
-    font-size: .32rem;
+    font-size: 5vw;
 }
 
 .we-services>em {
     position: absolute;
-    font-size: .26rem;
+    font-size: 4.0625vw;
     font-style: normal;
     display: inline-block;
     background: #febac7;
@@ -55,7 +55,7 @@
 
 .we-services>i {
     position: absolute;
-    font-size: .24rem;
+    font-size: 3.75vw;
     font-style: normal;
     display: inline-block;
     background: #febac7;
@@ -65,7 +65,7 @@
 
 .we-services>b {
     position: absolute;
-    font-size: .24rem;
+    font-size: 3.75vw;
     font-style: normal;
     font-weight: normal;
     display: inline-block;
@@ -75,43 +75,43 @@
 }
 
 .stay-l>span {
-    top: .95rem;
-    left: .4rem;
+    top: 14.84375vw;
+    left: 6.25vw;
 }
 
 .stay-l>em {
-    top: 1.45rem;
-    left: .4rem;
+    top: 22.65625vw;
+    left:6.25vw;
 }
 
 .stay-l>i {
-    top: 1.9rem;
-    left: .4rem;
+    top: 29.6875vw;
+    left: 6.25vw;
 }
 
 .stay-l>b {
-    top: 1.9rem;
-    left: 1.5rem;
+    top: 29.6875vw;
+    left: 23.4375vw;
 }
 
 .stay-r>span {
-    top: .95rem;
-    right: .1rem;
+    top: 14.84375vw;
+    right: 1.5625vw;
 }
 
 .stay-r>em {
-    top: 1.45rem;
-    right: .1rem;
+    top: 22.65625vw;
+    right: 1.5625vw;
 }
 
 .stay-r>i {
-    top: 1.9rem;
-    right: 1.2rem;
+    top: 29.6875vw;
+    right: 18.75vw;
 }
 
 .stay-r>b {
-    top: 1.9rem;
-    right: .1rem;
+    top: 29.6875vw;
+    right: 1.5625vw;
 }
 
 .check-more {
@@ -119,9 +119,9 @@
     text-align: center;
     font-size: 0;
     position: relative;
-    margin: .2rem 0 .4rem;
+    margin: 3.125vw 0 6.25vw;
     background: url("resources/mores-img.png") no-repeat center;
-    background-size: 6.4rem auto;
+    background-size: 100% auto;
 }
 
 .check-more:before {
@@ -138,12 +138,12 @@
 }
 
 .check-more>span {
-    font-size: .2rem;
+    font-size:3.125vw;
     color: #000;
 }
 
 .check-more>p {
-    font-size: .18rem;
+    font-size: 2.8125vw;
     color: #000;
 }
 

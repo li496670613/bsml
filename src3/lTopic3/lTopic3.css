@@ -7,18 +7,18 @@
 }
 
 .wedding-title {
-;width: 3.11rem;
-    margin: .15rem auto;
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
 }
 
 .ti4 {
     background: url("resources/ti4.png") no-repeat center;
     background-size: cover;
-    height: .75rem
+    height: 11.71875vw
 }
 
 .wedding-title>span {
-    font-size: .3rem;
+    font-size: 4.6875vw;
     color: #000;
     display: block;
     text-align: center;
@@ -26,7 +26,7 @@
 
 .wedding-title>b {
     font-weight: normal;
-    font-size: .28rem;
+    font-size: 4.375vw;
     color: #ebcf97;
     font-family: "Affair",sans-serif;
     display: block;
@@ -42,13 +42,13 @@
 }
 
 .wedding-title>b:before {
-    width: .45rem;
-    margin-right: .35rem;
+    width: 7.03125vw;
+    margin-right: 5.46875vw;
 }
 
 .wedding-title>b:after {
-    width: .6rem;
-    margin-left: .25rem;
+    width: 9.375vw;
+    margin-left: 3.90625vw;
 }
 
 .swipe {
@@ -65,50 +65,50 @@
 
 .danteng {
     position: relative;
-    height: 4.6rem;
-    margin-top: -.15rem
+    height: 71.875vw;
+    margin-top: -2.34375vw
 }
 
 .danteng .dt-lf {
     position: absolute;
     background: url("resources/lbg.png") no-repeat;
-    width: 3.6rem;
-    height: 3.75rem;
+    width: 56.25vw;
+    height: 58.59375vw;
     background-size: cover;
-    left: .2rem;
-    top: .75rem;
+    left: 3.125vw;
+    top: 11.71875vw;
 }
 
 .danteng .dt-rf {
     position: absolute;
     background: url("resources/rbg.png") no-repeat;
-    width: 3.3rem;
-    height: 4.6rem;
+    width: 51.5625vw;
+    height: 71.875vw;
     background-size: cover;
     top: 0;
     right: 0;
 }
 
 .danteng .dt-rf>p {
-    font-size: .2rem;
+    font-size: 3.125vw;
     color: #404141;
-    width: 2.1rem;
-    height: 2rem;
+    width: 32.8125vw;
+    height: 31.25vw;
     position: absolute;
     bottom: 0;
-    right: .2rem;
-    text-indent: .4rem;
+    right: 3.125vw;
+    text-indent: 6.25vw;
     overflow: hidden;
-    line-height: .3rem;
+    line-height: 4.6875vw;
 }
 
 .slider-box {
     margin: .1rem auto;
     background: url("resources/sw2bg.png") no-repeat;
-    width: 5.9rem;
-    height: 4.5rem;
+    width: 92.1875vw;
+    height: 70.3125vw;
     background-size: cover;
-    padding: .1rem;
+    padding: 1.5625vw;
 }
 
 #position2,#hd-slider-count {
@@ -118,9 +118,9 @@
 #position2 li,#hd-slider-count li {
     display: inline-block;
     vertical-align: middle;
-    width: .21rem;
-    height: .21rem;
-    margin: 0 .12rem;
+    width: 3.28125vw;
+    height: 3.28125vw;
+    margin: 0 1.875vw;
     background: #fff;
     border-radius: 50%;
     border: 1px solid #ccf;
@@ -131,5 +131,5 @@
 }
 
 #slider .swipe-wrap {
-    height: 4.3rem;
+    height: 67.1875vw;
 }

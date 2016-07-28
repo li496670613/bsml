@@ -1,5 +1,5 @@
 {
-  type: 'lShopInfo',
+  type: 'lShopInfo3',
   name: '商家信息',
   desc: '自定义组件商家信息',
   logo: '',
