@@ -81,13 +81,11 @@ body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;}
     position: absolute;
     width: 87.5vw;
     height: 29.6875vw;
-    margin:  auto;
+    margin: 21.01vw auto 0;
     background: rgba(255,255,255,.5);
     padding: 3.125vw 2.66vw;
     left: 0;
     right: 0;
-    top: 0;
-    bottom: 0;
     z-index: 9;
     overflow: hidden;
 }
