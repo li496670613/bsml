@@ -1,25 +1,24 @@
 .public-arr {
     background: #fff7f5;
-    height: 23.4375vw;
-    padding: 0 3.4375vw 10.9375vw;
+
     overflow: hidden;
 }
 
 .public-arr-box {
     overflow: hidden;
-    height: 1.5rem;
+    height: 17.65625vw;
 }
 
 .public-arr-icon {
-    height: 8.59375vw;
-    width: 8.59375vw;
+    height: 8.125vw;
+    width: 8.125vw;
     background: #d71d5b;
-    font-size: 4.6875vw;
+    font-size: 5vw;
     color: #fff;
-    margin-top: 6.25vw;
+    margin-top: 3.125vw;
     float: left;
-    margin-left: 0.78125vw;
-    line-height:  8.59375vw;
+    margin-left: 5.625vw;
+    line-height:  8.125vw;
     text-align: center;
     border-radius: 5px
 }
@@ -27,26 +26,25 @@
 .public-arr-info {
     float: left;
     font-size: 0;
-    margin-left: 4.6875vw;
+    margin-left: 6.5625vw;
 }
 
 .public-arr-info>span {
-    font-size: 4.375vw;
-    color: #1c1c30;
-    margin-top: 4.6875vw;
+    font-size: 3.6vw;
+    color: #d71d5b;
+    margin-top: 3.9vw;
     display: block;
-    padding-left: 0.78125vw;
-    width: 54.6875vw;
+    width: 57.8125vw;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
 .public-arr-info>p {
-    font-size:4.375vw;
-    color: #5f5f5f;
-    margin-top: 4.6875vw;
-    width: 54.6875vw;
+    font-size: 3.6vw;
+    color: #d71d5b;
+    margin-top: 3.9vw;
+    width: 57.8125vw;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -57,8 +55,8 @@
     border: none;
     background: transparent;
     color: #5f5f5f;
-    font-size: 3.4375vw;
-    margin-top: 7.8125vw;
+    font-size: 3.6vw;
+    margin-top: 5.468vw;
     width: 18.75vw;
     height: 5.46875vw;
     outline: none;

@@ -8,6 +8,11 @@
     background-size: cover;
     height: 11.09375vw;
 }
+.wedding-title {
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
+}
+
 
 .bus-info {
     width: 100%;
@@ -16,7 +21,7 @@
 
 .bus-info-box {
     width:88.75vw;
-    height: 84.0625vw;
+    height: 76vw;
     margin: 0 auto;
     border: 2px solid #e3e3e3;
     background: #fff;
@@ -100,4 +105,40 @@
     border: none;
     background: #d82460;
     border-radius: 1.5625vw;
+}
+.check-more {
+    width: 100%;
+    text-align: center;
+    font-size: 0;
+    position: relative;
+    margin: 3.125vw 0 6.25vw;
+    background: url("resources/mores-img.png") no-repeat center;
+    background-size: 100% auto;
+}
+
+.check-more:before {
+    left: 0;
+}
+
+.check-more:after {
+    right: 0;
+}
+
+.check-more:after {
+    top: 50%;
+    margin-top: -1px;
+}
+
+.check-more>span {
+    font-size:3.125vw;
+    color: #000;
+}
+
+.check-more>p {
+    font-size: 2.8125vw;
+    color: #000;
+}
+
+.content-hide {
+    display: none;
 }

@@ -2,10 +2,9 @@
     <log />
     <share />
     <mobile /> 
-    <def com="lHello"/>
     <def com="lPoi3"/>
     <def com="lAddress3"/>
-    <def com="lTopic3" zhitcGuid="mat_sys_11_common_topic"/>
+    <def com="lTopic3" zhitcGuid="mat_sys_21_common_topic"/>
     <def com="lServices3"/>
     <def com="lImage3"/>
     <def com="lActivity3"/>

@@ -7,7 +7,7 @@
             <div class="bus-info-box">
                 <img src="${item.image}" alt="" data-link="bainuo://tuandetail?tuanid=${item.id}"/>
                 <div class="bus-detail">
-                    <h4 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.min_title}</h4>
+                    <h4 data-link="bainuo://tuandetail?tuanid=${item.id}">${item.business_title}</h4>
                     <div class="bus-detail-info">
                         <div class="bus-detail-info-l">
                             <div class="price-info-t">

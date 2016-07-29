@@ -23,6 +23,10 @@
     overflow: hidden;
     position: relative;
 }
+.wedding-title {
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
+}
 
 .wedding-services-item li>img {
     width: 100%;

@@ -18,6 +18,13 @@
     line-height:6.25vw;
     font-family: "SimHei",sans-serif;
     padding-left: 7.8125vw;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wedding-title {
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
 }
 
 .wedding-bsinfo-info>p {
