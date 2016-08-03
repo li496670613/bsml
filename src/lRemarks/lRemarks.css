@@ -62,6 +62,89 @@
     margin: .3rem auto .2rem;
 }
 
+.zhitc-evaluate {
+    font-size: 0.21rem;
+    padding: 0.4rem 0;
+}
 .zhitc-evaluate-title {
     font-size: 0.225rem;
+    height: 0.636rem;
+    line-height: 0.63rem;
+    margin-left: 0.15rem;
+    padding-right: 0.465rem;
+}
+.zhitc-evaluate-title-score {
+    width: 1.23rem;
+    height: 0.18rem;
+    line-height: 0.255rem;
+    right: 0.63rem;
+    margin: 0.195rem 0 0.225rem 0;
+}
+.zhitc-evaluate-title-score-empty {
+    top: 0.015rem;
+    width: 0;
+    height: 0.18rem;
+    background-size: 1.2rem 0.18rem;
+}
+.zhitc-evaluate-title-count {
+    right: 0.48rem;
+}
+.zhitc-evaluate-item:first-child {
+    padding-top: 0.225rem;
+}
+.zhitc-evaluate-item-title {
+    height: 0.615rem;
+    line-height: 0.63rem;
+}
+.zhitc-evaluate-item-name {
+    margin-right: 0.18rem;
+}
+.zhitc-evaluate-item-score {
+    width: 1rem;
+}
+.zhitc-evaluate-item-start {
+    margin: 0.255rem 0;
+    background-size: 1rem 0.15rem;
+    height: 0.15rem;
+}
+.zhitc-evaluate-item-time {
+    font-size: 0.18rem;
+    line-height: 0.72rem;
+}
+.zhitc-evaluate-item-content {
+    max-height: 63px;
+    line-height: 20px;
+    font-size: 14.2px;
+}
+.zhitc-evaluate-item-arrow-close {
+    top: 41px;
+    height: 0.319rem;
+}
+.zhitc-evaluate-item-pic {
+    padding-top: 0.15rem;
+}
+.zhitc-evaluate-item-pic img {
+    height: 0.75rem;
+    width: 0.75rem;
+    margin-right: 0.15rem;
+}
+.zhitc-evaluate-title-score:before {
+    width: 1.455rem;
+    height: 0.18rem;
+    margin-top: 0.015rem;
+    background-size: 1.2rem 0.18rem;
+}
+.zhitc-evaluate-item {
+    margin-left: 0.15rem;
+    padding: 0 0.15rem 0.225rem 0;
+}
+.zhitc-evaluate-item-content-open {
+    padding-bottom: 0.272rem;
+    max-height: 100%;
+}
+.zhitc-evaluate-item-arrow {
+    height: 22px;
+}
+.zhitc-evaluate-item-arrow-open {
+    bottom: -4px;
 }

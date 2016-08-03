@@ -1,39 +1,4 @@
 {
-    "poi": {
-        "poiInfo": {
-            "poi_id": "4206826",
-            "poi_name": "施华洛婚纱摄影",
-            "per_price": 40,
-            "poi_dist": "芬兰设计的代名词",
-            "business_hours": "周一，周二，周三...",
-            "pay_atshop": 1,
-            "photo_list": {
-                "env": [
-                    {
-                        "strUrl": ""
-                    }
-                ],
-                "dish": []
-            },
-            "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/14689192877.jpg",
-            "first": [
-                {
-                    "strUrl": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/14689192877.jpg"
-                }
-            ],
-            "phone": "4000-520-687",
-            "distance": -1,
-            "address": "沈阳市和平区中华路太原街98号"
-        },
-        "mapInfo": {
-            "BID": 'aaa0be64-a0f8-4f9a-a8c6-734a9eb60568',
-            "hasinter": 0,
-            "hasstreet": 1
-        },
-        "scoreInfo": {
-            "average_score": 4.58667
-        }
-    },
     "map": {
         "poiInfo": {
             "poi_id": "4206826",
@@ -242,6 +207,35 @@
                 "浪漫花海",
                 "天国阶梯",
                 "花开半夏"
+            ]
+        }
+    ],
+    "services.{\"guid\":\"mat_sys_12_common_package\"}": [
+        {
+            "deal_id": 12577819,
+            "name": "Candy2 guid",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146892344082.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "浪漫花海",
+                "天国阶梯",
+                "花开半夏",
+                "童话森林"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "Candy2 guid 2222",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146892344132.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "tags": [
+                "天国阶梯",
+                "花开半夏",
+                "童话森林",
+                "浪漫花海"
             ]
         }
     ],
@@ -508,6 +502,42 @@
         "praise": 0.973333,
         "pic_comment_num": 4,
         "comment_list": [
+            {
+                "cmt_id": 354747598,
+                "tuan_id": 4776594,
+                "bill_id": "1023817007",
+                "poi_id": "4206826",
+                "uid": 0,
+                "nickname": "189*****559",
+                "score": 5,
+                "subitem_score": "{\"1\":5,\"2\":5,\"3\":5}",
+                "pic_id": "",
+                "pic_num": 0,
+                "comment_from": 1,
+                "source": 7,
+                "rank": 6875,
+                "quality_rank": 0,
+                "superior": 0,
+                "imei": "",
+                "create_time": 1453083639,
+                "update_time": 1453083639,
+                "ip": 0,
+                "status": 0,
+                "parter_pic_id": 0,
+                "parter_nickname": "",
+                "audit_type": 0,
+                "cuid": "90E5A7E482BBAD557E0C0563C15978D0|585E459500000A",
+                "content_length": 63,
+                "bduid": 1420815800,
+                "content": "服务感觉有些像海底捞靠近，要加强新员工培训服务感觉有些像海底捞靠近，要加强新员工培训服务感觉有些像海底捞靠近，要加强新员工培训服务感觉有些像海底捞靠近，要加强新员工培训",
+                "admin_reply": "",
+                "pic_url": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg",
+                "reply": [],
+                "labels": [],
+                "label_offset": [],
+                "reply_num": 0
+            },
+
             {
                 "cmt_id": 354747598,
                 "tuan_id": 4776594,
@@ -884,7 +914,7 @@
         "endPrice": {
             "id": "endPrice",
             "title": "最高价格",
-            "content": 128
+            "content": 1281
         },
         "imageList": {
             "id": "imageList",
