@@ -1,0 +1,46 @@
+.wedding-bsinfo {
+    background: #fff;
+    overflow: hidden;
+}
+
+.wedding-bsinfo-box {
+    background: url("resources/info-bg.png") no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.wedding-bsinfo-info {
+    text-align: left;
+    font-size: 3.125vw;
+    color: #000;
+    padding-top: 25vw;
+    height: 51.5625vw;
+    line-height:6.25vw;
+    font-family: "SimHei",sans-serif;
+    padding-left: 7.8125vw;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wedding-title {
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
+}
+
+.wedding-bsinfo-info>p {
+    width: 81.25vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-top: 1.25vw;
+}
+
+.wedding-bsinfo-box>button {
+    background: transparent;
+    color: #000;
+    font-size: 3.4375vw;
+    border: none;
+    position: absolute;
+    right: 4.6875vw;
+    bottom: 4.6875vw;
+}

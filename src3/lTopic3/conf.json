@@ -1,0 +1,17 @@
+{
+  type: 'lTopic3',
+  name: '主要经营',
+  desc: '自定义组件主要经营',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'services',
+  zhitcGuid: 'mat_sys_21_common_topic',
+
+  properties: [{
+    name: 'target',
+    text: '详情页链接',
+    type: 'text',
+    desc: '详情页链接',
+    value: 'detail2',
+  }]
+}

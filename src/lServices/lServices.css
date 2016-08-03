@@ -1,0 +1,163 @@
+.lServices {
+    background: url(resources/lServices.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
+    overflow: hidden;
+}
+.lServices *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.l-poi-title {
+    text-align: center;
+    overflow: hidden;
+    padding-top: 7.8125vw;
+}
+
+.l-poi-title p {
+    color: #8e8787;
+    text-align: center;
+    font-family:  Arial,sans-serif;
+    margin-bottom: 1vw;
+    font-size: 4.68vw;
+    font-weight: bold;
+}
+
+.l-poi-title span {
+    color: #e39fa0;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    font-size: 6.25vw;
+}
+
+.l-poi-title span:before,.l-poi-title span:after {
+    content: "";
+    width: 23.43vw;
+    height: 3px;
+    background: #5f5f5f;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.l-poi-title span:before {
+    margin-right: 1.56vw;
+}
+
+.l-poi-title span:after {
+    margin-left: 1.56vw;
+}
+
+
+
+
+.package-list {
+    overflow: hidden;
+    list-style: none;
+    padding: 1.56vw 1.25vw;
+}
+
+.package-list li {
+    margin-bottom: 4.06vw;
+    overflow: hidden;
+}
+
+.package-list li>img {
+    float: left;
+    width: 45.31vw;
+    height: 31.25vw;
+    display: block;
+}
+
+.package-item-info {
+    float: right;
+    width: 50.78vw;
+    padding-top: 1vw;
+    padding-left: 1vw;
+
+}
+
+.package-item-info>span {
+    font-size: 3.75vw;
+    font-weight: bold;
+    color: #333;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.package-item-info .package-time {
+    border: 1px solid #e3e3e3;
+    margin: 1vw 0;
+    padding: 1vw 0;
+
+}
+
+.package-item-info .package-time>span {
+    color: #6bb8b6;
+    font-size: 3.43vw;
+}
+
+.package-item-info .package-time>em {
+    font-style: normal;
+    color: #77bdc2;
+    font-size: 3.43vw;
+}
+
+.ser-money {
+    font-size: 3.75vw;
+    color: #e39fa0;
+    margin-top: 4.21vw;
+    font-family: "Microsoft Yahei", sans-serif
+}
+
+.ser-money{
+    font-size: 4.68vw;
+}
+.ser-money span{
+    font-size: 3.75vw;
+}
+.package-item-info .package-btn {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 2.5vw;
+}
+
+.checks,.apply {
+    color: #fff;
+    font-size: 4.0625vw;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 0.3vw;
+    width: 23.8vw;
+    height: 6.5625vw;
+
+}
+
+.checks {
+    background: #ed9e9e;
+    border-bottom: 2px solid #e07878;
+    float: left;
+}
+
+.apply {
+    background: #71c2c0;
+    border-bottom: 2px solid #4dadab;
+    float: right;
+}
+
+.content-hide {
+    display: none;
+}
+
+.serve-more {
+    background: url("resources/mores.png") no-repeat center;
+    background-size: 5.78vw 6.875vw;
+    height: 6.875vw;
+    width: 5.78vw;
+    margin: 2vw auto;
+}
+

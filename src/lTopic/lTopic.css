@@ -1,0 +1,117 @@
+.lTopic {
+    background: url(resources/lTopic.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
+    overflow: hidden;
+}
+.lTopic *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.l-poi-title {
+    text-align: center;
+    overflow: hidden;
+    padding-top: 7.8125vw;
+}
+
+.l-poi-title p {
+    color: #8e8787;
+    text-align: center;
+    font-family:  Arial,sans-serif;
+    margin-bottom: 1vw;
+    font-size: 4.68vw;
+    font-weight: bold;
+}
+
+.l-poi-title span {
+    color: #e39fa0;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    font-size: 6.25vw;
+}
+
+.l-poi-title span:before,.l-poi-title span:after {
+    content: "";
+    width: 23.43vw;
+    height: 3px;
+    background: #5f5f5f;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.l-poi-title span:before {
+    margin-right: 1.56vw;
+}
+
+.l-poi-title span:after {
+    margin-left: 1.56vw;
+}
+
+.scenes-box {
+    padding: 1.56vw 1.25vw;
+}
+
+.scenes-box-up {
+    width: 100%;
+    height:auto;
+}
+
+.scenes-box-down {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    margin-top:2.8125vw;
+    overflow: hidden;
+}
+
+.img-box {
+    overflow: hidden;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+}
+
+.img-box img {
+    width: 100%;
+    display: block;
+}
+
+.scenes-box-up .img-box {
+    position: relative;
+    width: 100%;
+    height: 43.75vw;
+}
+
+.scenes-box-down .img-box {
+    position: relative;
+    margin: 0 0.625vw
+}
+
+.img-box span {
+    position: absolute;
+    color: #fff;
+    bottom: 1.5vw;
+    left: 2vw;
+    z-index: 3;
+    font-size: 4.6875vw;
+}
+
+.scenes-box-up .img-box span {
+    font-size: 5.625vw;
+}
+
+.scenes-box-down .img-box:last-child:after {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url(resources/add.png) no-repeat center rgba(0,0,0,.4);
+    top: 0;
+    left: 0;
+    background-size: 5.21vw 5.21vw;
+}

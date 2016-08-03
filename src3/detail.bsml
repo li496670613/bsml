@@ -1,10 +1,10 @@
-<page name="detail" guid="mat_sys_11_common_topic" type="detail"> 
+<page name="detail" guid="mat_sys_21_common_topic" type="detail"> 
     <log />
     <share />
     <mobile /> 
     <def com="comClass" name="主题详情" />
     <gap />
-    <topics limit="4" title="其他主题" zhitcGuid="mat_sys_11_common_topic" />
+    <topics limit="4" title="其他主题" zhitcGuid="mat_sys_21_common_topic" />
     <gap />
     <services title="推荐套餐" zhitcGuid="mat_udf_12345_wedding" />
     <gap />

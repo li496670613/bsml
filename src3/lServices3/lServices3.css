@@ -1,0 +1,156 @@
+.ti3 {
+    background: url("resources/ti3.png") no-repeat center;
+    background-size: cover;
+    height: 12.65625vw;
+}
+
+.wedding-services {
+    background: #fff;
+    overflow: hidden;
+}
+
+.wedding-services-item {
+    overflow: hidden;
+    margin-top: 2.34375vw
+}
+
+.wedding-services-item li {
+    width: 93.75vw;
+    height: 50vw;
+    margin: 0 auto 2.34375vw;
+    border: 5px solid #e3e3e3;
+    padding: 1px;
+    overflow: hidden;
+    position: relative;
+}
+.wedding-title {
+    width: 48.59375vw;
+    margin: 2.34375vw auto;
+}
+
+.wedding-services-item li>img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.we-services {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.we-services>span {
+    position: absolute;
+    font-size: 5vw;
+}
+
+.we-services>em {
+    position: absolute;
+    font-size: 4.0625vw;
+    font-style: normal;
+    display: inline-block;
+    background: #febac7;
+    padding: 0 2px;
+    color: #fff;
+}
+
+.we-services>i {
+    position: absolute;
+    font-size: 3.75vw;
+    font-style: normal;
+    display: inline-block;
+    background: #febac7;
+    padding: 0 2px;
+    color: #fff;
+}
+
+.we-services>b {
+    position: absolute;
+    font-size: 3.75vw;
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    background: #febac7;
+    padding: 0 2px;
+    color: #fff;
+}
+
+.stay-l>span {
+    top: 14.84375vw;
+    left: 6.25vw;
+}
+
+.stay-l>em {
+    top: 22.65625vw;
+    left:6.25vw;
+}
+
+.stay-l>i {
+    top: 29.6875vw;
+    left: 6.25vw;
+}
+
+.stay-l>b {
+    top: 29.6875vw;
+    left: 23.4375vw;
+}
+
+.stay-r>span {
+    top: 14.84375vw;
+    right: 1.5625vw;
+}
+
+.stay-r>em {
+    top: 22.65625vw;
+    right: 1.5625vw;
+}
+
+.stay-r>i {
+    top: 29.6875vw;
+    right: 18.75vw;
+}
+
+.stay-r>b {
+    top: 29.6875vw;
+    right: 1.5625vw;
+}
+
+.check-more {
+    width: 100%;
+    text-align: center;
+    font-size: 0;
+    position: relative;
+    margin: 3.125vw 0 6.25vw;
+    background: url("resources/mores-img.png") no-repeat center;
+    background-size: 100% auto;
+}
+
+.check-more:before {
+    left: 0;
+}
+
+.check-more:after {
+    right: 0;
+}
+
+.check-more:after {
+    top: 50%;
+    margin-top: -1px;
+}
+
+.check-more>span {
+    font-size:3.125vw;
+    color: #000;
+}
+
+.check-more>p {
+    font-size: 2.8125vw;
+    color: #000;
+}
+
+.content-hide {
+    display: none;
+}

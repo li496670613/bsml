@@ -1,0 +1,23 @@
+{
+  type: 'lPoi3',
+  name: '门店-头部信息', // 用于 editor 显示
+  desc: '门店头部信息展示',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'poi',
+
+  // 提供给editor生成编辑表单
+  properties: [{
+    name: 'isShowPayBtn',
+    text: '是否需要支付按钮',
+    type: 'boolean',
+    desc: '是否需要支付按钮',
+    value: false
+  }, {
+    name: 'isShowUgcInfo',
+    text: '是否展示评价信息',
+    type: 'boolean',
+    desc: '是否展示门店下的三个纬度的评价评分',
+    value: false
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  type: 'lImage3',
+  name: '广告展示',
+  desc: '自定义组件广告展示',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'poi',
+
+  properties: [{
+    name: 'phone',
+    text: '电话',
+    type: 'text',
+    desc: '24小时咨询热线',
+    value: '24小时咨询热线'
+  }]
+}

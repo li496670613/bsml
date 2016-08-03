@@ -1,0 +1,54 @@
+.lAddress3 {
+    background: #fff;
+    overflow: hidden;
+}
+
+.wd-hd-info-down {
+    height: 15.625vw;
+    width: 100%
+}
+
+.wd-hd-info-address-item-address {
+    font-size: 3.4375vw;
+    color: #000;
+    position: relative;
+    padding-top: 3.125vw;
+    overflow: hidden;
+}
+
+.wd-hd-info-address-address {
+    float: left;
+    border-right: 2px solid #333;
+    height:11.875vw;
+    padding-left: 11vw;
+    width: 64.01vw;
+    overflow: hidden;
+    line-height: 5.9375vw;
+}
+
+.wd-hd-info-address-address:before {
+    content: "";
+    background: url("resources/i1.png") no-repeat center;
+    display: block;
+    height: 5.32vw;
+    width: 4.1vw;
+    background-size: cover;
+    position: absolute;
+    left: 4.375vw;
+    top: 4.375vw;
+}
+
+.wd-hd-info-address-map {
+    float: left;
+    margin-left: 6.25vw;
+}
+
+.wd-hd-info-address-map:before {
+    content: "";
+    background: url("resources/i2.png") no-repeat center;
+    display: block;
+    height: 4.54vw;
+    width: 3.29vw;
+    background-size: cover;
+    margin: 1.25vw auto
+}

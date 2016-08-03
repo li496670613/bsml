@@ -1,0 +1,140 @@
+.lSales {
+    background: url(resources/lSales.jpg) no-repeat center #fff;
+    background-size: 100% 100%!important;
+    overflow: hidden;
+}
+.lSales *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.l-poi-title {
+    text-align: center;
+    overflow: hidden;
+    padding-top: 7.8125vw;
+}
+
+.l-poi-title p {
+    color: #8e8787;
+    text-align: center;
+    font-family:  Arial,sans-serif;
+    margin-bottom: 1vw;
+    font-size: 4.68vw;
+    font-weight: bold;
+}
+
+.l-poi-title span {
+    color: #e39fa0;
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    font-size: 6.25vw;
+}
+
+.l-poi-title span:before,.l-poi-title span:after {
+    content: "";
+    width: 23.43vw;
+    height: 3px;
+    background: #5f5f5f;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.l-poi-title span:before {
+    margin-right: 1.56vw;
+}
+
+.l-poi-title span:after {
+    margin-left: 1.56vw;
+}
+
+
+.boutique-list{
+    padding: 1.56vw 1.25vw;
+}
+.boutique-list li {
+    padding: 0 1vw;
+    overflow: hidden;
+    margin-bottom: 1vw;
+    list-style: none;
+}
+.boutique-list li>img {
+    width: 48.75vw;
+    height: 45.46vw;
+    display: block;
+    float: left;
+}
+.boutique-item-info {
+    float: right;
+    width: 46.25vw;
+    padding-left: 1.875vw;
+    position: relative;
+}
+.boutique-item-info>h3 {
+    font-size: 5.625vw;
+    color: #000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+    display: inline-block;
+    white-space: nowrap;
+}
+.boutique-item-info>p {
+    color: #000;
+    font-size: 3.75vw;
+    line-height: 5.3125vw;
+    margin-top: 5vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.package-money {
+    color: #595959;
+    font-family: simsun, sans-serif;
+    margin-top: 10.31vw;
+}
+.package-money:after{
+    content: "";
+    display: table;
+    width: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.package-money span {
+    font-weight: bold;
+    float: left;
+    font-family: "Microsoft Yahei",sans-serif;
+    padding-top: 1.75vw;
+    margin-right:1vw;
+    font-size: 3.75vw;
+}
+.package-money div {
+    float: left;
+    margin-top: -.1rem
+}
+.package-money b {
+    font-size:5.625vw;
+    color: #e39fa0;
+    font-family: "Microsoft Yahei", sans-serif
+}
+.package-money s {
+    color: #000;
+    font-size:3.75vw;
+    margin-left: 1vw;
+    font-family: "Microsoft Yahei",sans-serif;
+}
+.content-hide {
+    display: none;
+}
+.serve-more {
+    background: url("resources/mores.png") no-repeat center;
+    background-size: 5.78vw 6.875vw;
+    height: 6.875vw;
+    width: 5.78vw;
+    margin: 2vw auto;
+}

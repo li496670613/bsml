@@ -1,0 +1,22 @@
+{
+  type: 'lActivity3',
+  name: '到店付',
+  desc: '自定义组件到店付',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'preference',
+
+  properties: [{
+    name: 'name',
+    text: 'text',
+    type: 'text',
+    desc: '',
+    value: ''
+  },{
+    name: 'target',
+    text: '详情页链接',
+    type: 'text',
+    desc: '详情页链接',
+    value: 'bookPage',
+  }]
+}
