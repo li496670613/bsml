@@ -5,10 +5,11 @@
     <def com="lPoi3"/>
     <def com="lAddress3"/>
     <def com="lTopic3" zhitcGuid="mat_sys_21_common_topic"/>
-    <def com="lServices3"/>
+    <def com="lServices3" />
     <def com="lImage3"/>
     <def com="lActivity3"/>
     <def com="lSales3"/>
+    <comment />
     <def com="lShopInfo3"/>
     <booking />
-</page>  
+</page> 

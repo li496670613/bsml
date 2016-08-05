@@ -12,5 +12,11 @@
     type: 'text',
     desc: '24小时咨询热线',
     value: '24小时咨询热线'
+  },{
+    name: 'url',
+    text: '上传的图片地址',
+    type: 'text',
+    desc: '请上传3:1的图片',
+    value: 'http://cfkfc.img48.wal8.com/img48/551748_20160705150738/146909431651.png'
   }]
 }

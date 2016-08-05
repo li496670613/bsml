@@ -1,0 +1,59 @@
+.public-arr {
+    background: #f0f0f0;
+    height: 2.2rem;
+    padding: 0 .22rem .7rem;
+    overflow: hidden;
+}
+.public-arr-box {
+    border-top: 1px dashed #000;
+    border-bottom: 1px dashed #000;
+    overflow: hidden;
+    height: 1.5rem;
+}
+.public-arr-icon {
+    height: .41rem;
+    width: .41rem;
+    background: #e6a705;
+    font-size: .28rem;
+    color: #fff;
+    margin-top: .4rem;
+    float: left;
+    margin-left: .05rem;
+    line-height: .41rem;
+    text-align: center;
+}
+.public-arr-info {
+    float: left;
+    font-size: 0;
+    margin-left: .3rem;
+}
+.public-arr-info>span {
+    font-size: .28rem;
+    color: #1c1c30;
+    margin-top: .3rem;
+    display: block;
+    padding-left: .05rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.public-arr-info>p {
+    font-size: .28rem;
+    color: #5f5f5f;
+    margin-top: .3rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 3.8rem;
+}
+.public-arr-box>button {
+    float: right;
+    border: none;
+    background: #f0f0f0;
+    color: #5f5f5f;
+    font-size: .22rem;
+    margin-top: .5rem;
+    width: 1.2rem;
+    height: .35rem;
+    outline: hidden;
+}
