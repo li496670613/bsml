@@ -5,7 +5,7 @@
     font-weight: normal;
     font-style: normal;
 }
-body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;}
+body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;width: 100%;}
 .swipe {
     overflow: hidden;
     visibility: hidden;
@@ -173,19 +173,14 @@ body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;}
 }
 
 .wd-hd-info-score {
-    font-size: 0;
     height: 4.0625vw;
+    width: 37vw;
     line-height: 4.0625vw;
     position: absolute;
     top: 4.375vw;
-    right: 5.46875vw;
+    right: 3.46875vw;
     margin: 0;
     margin-top: -8px;
-    white-space: nowrap;
-    word-wrap: normal;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: inline-block;
 }
 
 .wd-hd-info-score:before {
@@ -200,6 +195,7 @@ body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;}
 
 .wd-hd-info-score-empty {
     position: absolute;
+    display: inline-block;
     top: 0;
     left: 0;
     width: 25.625vw;
@@ -213,6 +209,7 @@ body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;}
     margin-top: 0.15625vw;
     font-size: 4.6875vw;
     color: #000;
+    display: inline-block;
 }
 
 .wd-hd-info-down {
