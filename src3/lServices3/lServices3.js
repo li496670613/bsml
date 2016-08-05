@@ -7,9 +7,7 @@ function bindEvents(me) {
 
 
     var $main = $(me.main);
-    //$main.on('click', '.we-services>b', function() {
-    //        $('body').trigger('callPhone', {
-    //            phoneList: me.data.poi.poiInfo.phone.split('|')
-    //        });
-    //    });
+    $(me.main).on('click', '.we-services>b', function() {
+        $('.wd-hd-phone').trigger("touch");
+    });
 }

@@ -33,6 +33,11 @@
               </span>
                <span class="wd-hd-info-score-count">
                 </span>
+                 {{ if: ${poi.poiInfo.per_price} }}
+                                   <span class="l-poi-hd-info-score-per">
+                                   ¥${poi.poiInfo.per_price}/人
+                                   </span>
+                                    {{ /if }}
                 </p>
             </div>
         </div>

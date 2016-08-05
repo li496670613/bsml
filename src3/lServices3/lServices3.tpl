@@ -5,8 +5,8 @@
         <ul class="wedding-services-item">
            {{ for: ${services} as ${item}, ${index} }}
             <li class="{{ if: ${index}>= ${properties.limit} }} content-hide{{ /if }}">
-                <img src="${item.headImage}" alt="" />
-                <div class="we-services {{ if: ${index} %2 == 0 }}stay-l{{ /if }} {{ if: ${index} %2 != 0 }}stay-r{{ /if }} " >
+                <img src="${item.headImage}" alt="" data-link="${properties.target}?deal_id=${item.deal_id}"/>
+                <div  class="we-services {{ if: ${index} %2 == 0 }}stay-l{{ /if }} {{ if: ${index} %2 != 0 }}stay-r{{ /if }} " >
                     <span data-link="${properties.target}?deal_id=${item.deal_id}">${item.name}</span>
                     <em>单品鲜花:¥${item.startPrice}-${item.endPrice}</em>
                     <i data-link="${properties.target2}?deal_id=${item.deal_id}">到店预约</i>

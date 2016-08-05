@@ -11,7 +11,7 @@
                     <div class="bus-detail-info">
                         <div class="bus-detail-info-l">
                             <div class="price-info-t">
-                                <span>秒杀价</span> <em class="current_price">${item.current_price}.00</em>
+                                <span>秒杀价</span> <em class="current_price">&yen;${item.current_price}.00</em>
                             </div>
                             <div class="price-info-b">
                                 <span>原价</span><s class="market_price">${item.market_price}.00</s><em> / </em><i>省</i><b class="save_price"></b>

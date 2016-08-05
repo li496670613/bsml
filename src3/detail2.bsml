@@ -1,4 +1,4 @@
-<page name="detail2" guid="mat_sys_22_common_package" type="detail"> 
+<page name="detail2" guid="mat_sys_22_flower_package" type="detail"> 
     <log />
     <share />
     <header /> 
@@ -8,7 +8,7 @@
     <gap />
     <detail />
     <gap />
-    <services title="推荐套餐" limit="3" zhitcGuid="mat_sys_22_common_package" />
+    <services title="推荐套餐" limit="3" zhitcGuid="mat_sys_22_flower_package" />
     <gap />
     <sales title="为您推荐" subject="grid" />
     <gap />

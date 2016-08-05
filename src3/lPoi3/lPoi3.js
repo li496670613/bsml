@@ -15,7 +15,7 @@ function bindEvents(me) {
         return;
     }
     var $main = $(me.main);
-    $main.on('click', '.wd-hd-phone', function() {
+   $(".wd-hd-phone").on('click touch', function() {
         $('body').trigger('callPhone', {
             phoneList: me.data.poi.poiInfo.phone.split('|')
         });
