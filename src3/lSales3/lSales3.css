@@ -41,8 +41,12 @@
 
 .bus-detail>h4 {
     font-size: 4.375vw;
+    width: 50vw;
     font-weight: normal;
     margin: 3.125vw 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .bus-detail-info {

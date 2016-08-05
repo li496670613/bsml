@@ -45,6 +45,10 @@
 .we-services>span {
     position: absolute;
     font-size: 5vw;
+    width: 40vw;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 .we-services>em {
