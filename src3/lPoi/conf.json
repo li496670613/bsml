@@ -1,5 +1,5 @@
 {
-  type: 'lPoi3',
+  type: 'lPoi',
   name: '门店-头部信息', // 用于 editor 显示
   desc: '门店头部信息展示',
   logo: '',

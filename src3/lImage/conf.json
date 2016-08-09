@@ -1,5 +1,5 @@
 {
-  type: 'lImage3',
+  type: 'lImage',
   name: '广告展示',
   desc: '自定义组件广告展示',
   logo: '',

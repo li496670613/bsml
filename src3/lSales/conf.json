@@ -1,5 +1,5 @@
 {
-    type: 'lSales3',
+    type: 'lSales',
     name: '精品团购',
     desc: '自定义组件精品团购',
     logo: '',
