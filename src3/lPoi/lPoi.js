@@ -1,8 +1,8 @@
 function init(me, data) {
     me.data.city_id = BNJS.location.cityCode || 100010000;
+    me.data.poi.poiInfo.per_price = Math.ceil(me.data.poi.poiInfo.per_price/100);
+    me.data.poi.poiInfo.phone = me.data.poi.poiInfo.phone.split("\|")[0];
 }
-
-
 function bindEvents(me) {
     var score = me.data.poi.scoreInfo;
     var scoreStyle = score.average_score ? score.average_score/ 5 * 25.625 + 'vw' : score.average_score + 'px';
@@ -10,8 +10,6 @@ function bindEvents(me) {
     $(".wd-hd-info-score-empty").css({
         "width": scoreStyle
     });
-    $(".l-poi-hd-info-score-per span").html(Math.floor($(".l-poi-hd-info-score-per span").html()/100));
-    $(".wd-hd-phone span").html($(".wd-hd-phone span").html().split("\|")[0]);
     $(".wd-hd-info-score-count").html(average_score);
     if (!me.data.poi.poiInfo) {
         return;
