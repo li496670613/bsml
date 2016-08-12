@@ -8,12 +8,6 @@
 
   // 提供给editor生成编辑表单
   properties: [{
-    name: 'isShowPayBtn',
-    text: '是否需要支付按钮',
-    type: 'boolean',
-    desc: '是否需要支付按钮',
-    value: false
-  }, {
     name: 'isShowUgcInfo',
     text: '是否展示评价信息',
     type: 'boolean',

@@ -1,12 +1,13 @@
 .public-arr {
-    background: #fff7f5;
-
+    background: #ffffff;
     overflow: hidden;
 }
 
 .public-arr-box {
     overflow: hidden;
     height: 17.65625vw;
+    margin-bottom: 3vw;
+    background: #fff7f5;
 }
 
 .public-arr-icon {

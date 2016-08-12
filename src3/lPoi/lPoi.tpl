@@ -27,7 +27,7 @@
             优惠买单
         </span>
                 {{ /if }}
-                <span class="wd-hd-phone">TEL:${poi.poiInfo.phone}</span>
+                <span class="wd-hd-phone">TEL:<span>${poi.poiInfo.phone}</span></span>
                 <p class="wd-hd-info-score">
              <span class="wd-hd-info-score-empty">
               </span>
@@ -35,7 +35,7 @@
                 </span>
                  {{ if: ${poi.poiInfo.per_price} }}
                                    <span class="l-poi-hd-info-score-per">
-                                   ¥${poi.poiInfo.per_price}/人
+                                   ¥<span>${poi.poiInfo.per_price}</span>/人
                                    </span>
                                     {{ /if }}
                 </p>

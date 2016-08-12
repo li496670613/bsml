@@ -10,6 +10,8 @@ function bindEvents(me) {
     $(".wd-hd-info-score-empty").css({
         "width": scoreStyle
     });
+    $(".l-poi-hd-info-score-per span").html(Math.floor($(".l-poi-hd-info-score-per span").html()/100));
+    $(".wd-hd-phone span").html($(".wd-hd-phone span").html().split("\|")[0]);
     $(".wd-hd-info-score-count").html(average_score);
     if (!me.data.poi.poiInfo) {
         return;

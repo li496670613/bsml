@@ -3,7 +3,7 @@
         "poiInfo": {
             "poi_id": "4206826",
             "poi_name": "安缘利里鲜花庆典",
-            "per_price": 40,
+            "per_price": 400000,
             "poi_dist": "一周一花  分享未知的鲜美生活",
             "business_hours": "周一，周二，周三...",
             "pay_atshop": 1,
@@ -25,7 +25,7 @@
                     "strUrl": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/14689192877.jpg"
                 }
             ],
-            "phone": "13570708888",
+            "phone": "13570708888|21321321321",
             "distance": 9999,
             "address": "沈阳市和平区中华路太原街98号"
         },
@@ -264,7 +264,7 @@
     ],
     "activity": [{
         "type": "activity",
-        "title": "预约礼",
+        "title": "到店付",
         "content": "婚照享受8折优惠",
         "url": "bainuo://component?compid=t10pay&comppage=order"
     },{

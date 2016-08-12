@@ -175,11 +175,11 @@ body{font-family: "Heiti SC Light", "Heiti SC",sans-serif;width: 100%;}
 
 .wd-hd-info-score {
     height: 4.0625vw;
-    width: 50vw;
+    min-width: 50vw;
     line-height: 4.0625vw;
     position: absolute;
     top: 4.375vw;
-    right: 3.46875vw;
+    right: 2vw;
     margin: 0;
     margin-top: -8px;
 }
