@@ -4,7 +4,7 @@
   desc: '自定义组件到店付',
   logo: '',
   tags: ['直通车-自定义'],
-  data: 'activity',
+  data: 'poi',
 
   properties: [{
     name: 'name',
