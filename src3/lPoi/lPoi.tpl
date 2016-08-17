@@ -9,9 +9,12 @@
         </div>
         <div id="hd-slider" class="swipe">
             <div class="swipe-wrap">
-             {{ for: ${poi.poiInfo.photo_list.env} as ${item}, ${index} }}
+              <div>
+                 <img src="${poi.poiInfo.photo_list.first[0].strPUrl}" data-link="bainuo://component?compid=merchants&comppage=photos"/>
+               </div>
+             {{ for: ${poi.poiInfo.photo_list.front} as ${item} }}
                 <div>
-                    <img src="${item.strUrl}" alt="" data-link="bainuo://component?compid=merchants&comppage=photos"/>
+                    <img src="${item.strPUrl}" alt="" data-link="bainuo://component?compid=merchants&comppage=photos"/>
                 </div>
                  {{ /for }}
             </div>
