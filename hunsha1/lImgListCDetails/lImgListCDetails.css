@@ -1,0 +1,26 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lImgListCDetails {
+    position: relative;
+    width: 100%;
+    background: url(resources/lImgListCDetails.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #fff;
+}
+.lImgListCDetails-box {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.lImgListCDetails-item img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}

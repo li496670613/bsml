@@ -1,0 +1,32 @@
+[{
+  "desrc": "测试用自定义物料",
+  "type": 1,
+  "name": "测试用自定义物料",
+  "en_name": "test",
+  "front": [
+    {
+      "strPUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=992a579b7ef0f736ccb1164137659f29/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strPrice": "0.00",
+      "strTitle": "",
+      "intId": 12737335,
+      "intPrice": 0
+    },
+    {
+      "strPUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=992a579b7ef0f736ccb1164137659f29/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strPrice": "0.00",
+      "strTitle": "",
+      "intId": 12737335,
+      "intPrice": 0
+    },
+    {
+      "strPUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=992a579b7ef0f736ccb1164137659f29/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+      "strPrice": "0.00",
+      "strTitle": "",
+      "intId": 12737335,
+      "intPrice": 0
+    }
+  ]
+}]

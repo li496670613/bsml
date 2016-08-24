@@ -1,0 +1,11 @@
+{
+  type: 'lPhoneA',
+  name: '自定义电话组件',
+  desc: '自定义电话组件',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'poi',
+
+  properties: [
+  ]
+}

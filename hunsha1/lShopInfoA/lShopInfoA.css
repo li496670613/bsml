@@ -1,0 +1,23 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lShopInfoA {
+    position: relative;
+    width: 100%;
+    background: url(resources/lShopInfoA.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+.lShopInfoA p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    line-height: 1.5;
+}
+section.lShopInfoA{height:89vw;padding-top:25.33vw;padding-right:2.67vw;padding-bottom:0.00vw;padding-left:2.67vw;color:#3a3a3a;text-align:center;}

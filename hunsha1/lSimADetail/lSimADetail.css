@@ -1,0 +1,12 @@
+*{-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.lSimADetail{
+    position: relative;
+    width: 100%;
+    background: url(resources/lSimADetail.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+
+section.lSimADetail{height:10vw;padding-top:2.67vw;padding-right:0.00vw;padding-bottom:0.00vw;padding-left:0.00vw;color:#515151;font-size:3.73vw;text-align:center;}

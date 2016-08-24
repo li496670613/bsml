@@ -1,0 +1,27 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lImgListCDetail {
+    position: relative;
+    width: 100%;
+    background: url(resources/lImgListCDetail.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #fff;
+}
+.lImgListCDetail-box {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.lImgListCDetail-item img{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+section.lImgListCDetail{padding-right:2.67vw;padding-left:2.67vw;text-align:center;}

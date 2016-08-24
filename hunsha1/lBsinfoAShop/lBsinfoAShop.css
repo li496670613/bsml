@@ -1,0 +1,17 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lBsinfoAShop {
+    position: relative;
+    width: 100%;
+    background: url(resources/lBsinfoAShop.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+    line-height: 1.5;
+    padding: 0 5vw 0;
+    height: 58vw;
+}

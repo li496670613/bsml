@@ -1,0 +1,8 @@
+<page name="bookTips" type="udf" title="预订结果">
+<log/>
+<share/>
+<preview/>
+<bookresult/>
+<gap/>
+<services zhitcGuid="mat_sys_12_common_package"/>
+</page>
