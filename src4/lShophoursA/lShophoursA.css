@@ -1,0 +1,44 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lShophoursA {
+    position: relative;
+    width: 100%;
+    background: url(resources/lShophoursA.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+.lShophoursA-box{
+    position: relative;
+    width: 100%;
+    display: flex;
+    display: -webkit-flex;
+}
+.lShophoursA-time {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    line-height: 1.5;
+    position: relative;
+    font-size: inherit;
+    flex: 4;
+}
+
+.lShophoursA-pay-btn {
+    display: block;
+    text-align: center;
+    color: transparent;
+    height: 100%;
+    font-size: inherit;
+    flex: 1;
+    line-height: 1.5;
+}
+
+
+
+section.lShophoursA{height:30vw;padding-top:22.40vw;padding-right:2.67vw;padding-bottom:0.00vw;padding-left:0.00vw;color:#5f5f5f;font-size:3.73vw;text-align:center;}

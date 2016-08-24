@@ -1,0 +1,94 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lSalesDDetails {
+    position: relative;
+    width: 100%;
+    background: url(resources/lSalesDDetails.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+.lSalesDDetails-content{
+    padding-bottom: 10vw;
+    height: 100%;
+    overflow: hidden;
+}
+.lSalesDDetails-contents{
+    overflow: hidden;
+    height: 100%;
+    display:box;
+    display:-webkit-box;
+    display:-moz-box;
+    box-orient:vertical;
+    -moz-box-orient:vertical;
+    -webkit-box-orient:vertical;
+}
+.lSalesDDetails-box{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    box-flex:1;
+    -moz-box-flex:1;
+    -webkit-box-flex:1;
+    height: 100%;
+}
+
+.con-hide{display: none;}
+
+.oImage{
+    overflow: hidden;
+}
+.oImage img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.lSalesDDetails-item-info{
+    line-height: 1.5;
+    float: left;
+}
+.lSalesDDetails-item-info p{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lSalesDDetails-item-info span{
+    display: block;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lSalesDDetails-item-info b{
+    display: block;
+    font-weight: normal;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.more-item{
+    color: transparent;
+    display: block;
+    line-height: 2;
+}
+section.lSalesDDetails{height:128vw;padding-top:26.67vw;padding-right:0.00vw;padding-bottom:9.33vw;padding-left:2.67vw;text-align:left;}
+div.oImage{width:50vw;}
+p.NS-titleSales{margin-top:3.20vw;padding-left:1.33vw;color:#2f2f2f;font-size:4.80vw;overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;}
+span.NS-priceSales{margin-top:12.53vw;padding-left:1.33vw;color:#ffffff;font-size:3.47vw;}
+s.NS-priceoldSales{padding-left:9.33vw;color:#ffffff;font-size:2.93vw;}
+b.NS-countSales{margin-top:1.87vw;padding-left:1.33vw;color:#848484;font-size:2.93vw;}
+div.oImage{width:78vw;}
+p.NS-titleSales{margin-top:4.00vw;padding-left:1.87vw;font-size:4.27vw;}
+span.NS-priceSales{margin-top:13vw;padding-left:1.87vw;color:#ffffff;font-size:3.47vw;}
+s.NS-priceoldSales{padding-left:12vw;color:#ffffff;font-size:2.93vw;}
+b.NS-countSales{margin-top:1.87vw;padding-left:1.33vw;color:#848484;font-size:2.93vw;}

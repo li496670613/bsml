@@ -1,0 +1,8 @@
+<page name="serveImgDetail" type="udf"> 
+    <log />
+    <share />
+    <nav target="serveTextDetail" active="img" />
+    <gap /> 
+    <album />
+    <gap />
+</page> 

@@ -1,0 +1,1653 @@
+{
+    "poi": {
+        "poiInfo": {
+            "poi_id": "4206826",
+            "poi_name": "时代婚纱摄影（沈河店）",
+            "per_price": 40,
+            "poi_dist": "中街",
+            "business_hours": "营业时间：周一、周二、周三、周四、周五",
+            "pay_atshop": 1,
+            "photo_list": {
+                "env": [
+                    {
+                        "strUrl": ""
+                    }
+                ],
+                "dish": []
+            },
+            "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747773.jpg",
+            "first": [
+                {
+                    "strUrl": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+                }
+            ],
+            "front": [
+                {
+                    "strPUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D470%3Bq%3D80/sign=992a579b7ef0f736ccb1164137659f29/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+                    "strUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/e61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+                    "strPrice": "0.00",
+                    "strTitle": "",
+                    "intId": 12737335,
+                    "intPrice": 0
+                }
+            ],
+            "phone": "4006277297 | 13845664176",
+            "distance": 999,
+            "address": "沈阳市沈河区奉天街145号"
+        },
+        "mapInfo": {
+            "BID": "4c34ba768d654a8a48cc4ae1",
+            "hasinter": 0,
+            "hasstreet": 1
+        },
+        "scoreInfo": {
+            "average_score": 4.58667
+        }
+    },
+    "map": {
+        "poiInfo": {
+            "poi_id": "4206826",
+            "poi_name": "小辉哥火锅(江桥万达店)",
+            "per_price": 40,
+            "poi_dist": "江桥",
+            "business_hours": "8:00 -- 24:00",
+            "pay_atshop": 1,
+            "photo_list": {
+                "env": [
+                    {
+                        "strUrl": ""
+                    }
+                ],
+                "dish": []
+            },
+            "mid_image": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg",
+            "first": [
+                {
+                    "strUrl": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+                }
+            ],
+            "phone": "1384195XXXX|13845664176",
+            "distance": -1,
+            "address": "沈阳市沈河区奉天街145号"
+        },
+        "mapInfo": {
+            "BID": "4c34ba768d654a8a48cc4ae1",
+            "hasinter": 0,
+            "hasstreet": 1
+        }
+    },
+    "sales": {
+        "tuanList": [
+            {
+                "id": 979791,
+                "image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747988.jpg",
+                "tiny_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747988.jpg",
+                "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747988.jpg",
+                "business_title": "小辉哥火锅",
+                "medium_title": "价值100元代金券！无需预约！提供免费WiFi！可叠加使用！",
+                "min_title": "时代婚纱海边浪漫主义婚纱照代金券",
+                "title_high_price": "价值100元代金券！可叠加使用！",
+                "tags": "appoint:1,go_flash:0, personal_info:0, ugc_info:0, usual_info:1,t10:1,card:0, promotion:0, voucher:0",
+                "score": 46230,
+                "current_price": 7990,
+                "market_price": 10000,
+                "sale_count": 200
+            },
+            {
+                "id": 979791,
+                "image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "tiny_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "business_title": "小辉哥火锅",
+                "medium_title": "价值100元代金券！无需预约！提供免费WiFi！可叠加使用！",
+                "min_title": "时代婚纱海边浪漫主义婚纱照代金券",
+                "title_high_price": "价值100元代金券！可叠加使用！",
+                "tags": "appoint:1,go_flash:0, personal_info:0, ugc_info:0, usual_info:1,t10:1,card:0, promotion:0, voucher:0",
+                "score": 46230,
+                "current_price": 7990,
+                "market_price": 10000,
+                "sale_count": 200
+            }
+        ],
+        "poiInfo": {
+            "poi_id": "4206826",
+            "poi_name": "小辉哥火锅(江桥万达店)",
+            "per_price": 40,
+            "poi_dist": "江桥",
+            "business_hours": "8:00 -- 24:00",
+            "pay_atshop": 1,
+            "photo_list": {
+                "env": [
+                    {
+                        "strUrl": ""
+                    }
+                ],
+                "dish": []
+            },
+            "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747773.jpg",
+            "first": [
+                {
+                    "strUrl": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+                }
+            ],
+            "phone": "4006277297|13845664176",
+            "distance": -1,
+            "address": "上海市嘉定区金沙江路1051弄1号万达广场3052和3053"
+        },
+        "sortList": null
+    },
+    "services": [
+        {
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747938.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/14720074788.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        },{
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747826.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_400x300.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_400x300.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "时尚浪漫婚纱",
+            "headImage": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_400x300.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "时尚浪漫婚纱",
+                "标签2",
+                "标签3"
+            ]
+        }
+    ],
+    "services.{\"guid\":\"mat_sys_11_common_topic\"}": [
+        {
+            "deal_id": 12577819,
+            "name": "Candy guid",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747826.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "标签1",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "name": "Candy2 guid",
+            "headImage": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200747826.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "标签1",
+                "标签2",
+                "标签3"
+            ]
+        }
+    ],
+    "activity": {
+        "type": "activity",
+        "title": "糯米活动",
+        "content": "内容不超过10个字",
+        "url": "bainuo://component?compid=t10pay&comppage=order"
+    },
+    "shop": {
+        "headImage": {
+            "id": "headImage",
+            "title": "头图",
+            "content": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "商家名称",
+            "content": "此处是商家名称"
+        },
+        "description": {
+            "id": "description",
+            "title": "商家简介",
+            "content": "此处是商家简介"
+        },
+        "information": {
+            "id": "information",
+            "title": "商户介绍",
+            "content": "时代婚纱摄影，是集婚纱摄影、艺术写真、儿童摄影为一体的摄影公司，公司本着至真、至美的服务理念，为每一位顾客留下美好的一瞬间；我们拥有一支技术超群的年轻创作团队，为客人提供私家专属摄影团队，拍摄全程一对一服务，告别传统的摆拍模式，倡导时尚个性婚纱摄影让新人们享受到真正的拍摄乐趣！"
+        },
+        "serviceFeatures": {
+            "id": "serviceFeatures",
+            "title": "服务特色",
+            "content": [
+                "底片全送",
+                "底片全送",
+                "底片全送"
+            ]
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "商家环境",
+            "content": [
+                "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/32fa828ba61ea8d392647cd8910a304e241f58a3.jpg",
+                "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/32fa828ba61ea8d392647cd8910a304e241f58a3.jpg"
+            ]
+        },
+        "bizBridge": {
+            "appid": 10066,
+            "ucid": 18932372,
+            "siteid": "8176036",
+            "randkey": "abc"
+        },
+        "lxb": {
+            "mobile": [
+                "10698000036539",
+                "10690691036539"
+            ]
+        }
+    },
+    "preference": [
+        {
+            "id": "bookGift",
+            "title": "预约礼",
+            "content": "赠送时代相片一张个性签名一张"
+        },
+        {
+            "id": "arriveGift",
+            "title": "到店礼",
+            "content": "赠送时代相片一套"
+        }
+    ],
+    "sug": [
+        {
+            "deal_id": 12577819,
+            "title": "Candy",
+            "image": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_400x300.jpg",
+            "startPrice": "40",
+            "endPrice": "80",
+            "bookingCount": 34,
+            "tags": [
+                "标签1",
+                "标签2",
+                "标签3"
+            ]
+        },
+        {
+            "deal_id": 12577819,
+            "title": "Candy",
+            "image": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_400x300.jpg",
+            "tags": [
+                "标签1",
+                "标签2",
+                "标签3"
+            ]
+        }
+    ],
+    "detail": {
+        "name": {
+            "content": "说明,这些都是物料信息的各个字段",
+            "id": "name",
+            "title": "名称"
+        },
+        "headImage": {
+            "content": "http://images4.c-ctrip.com/target/tuangou/642/033/120/81a42adee60e4e4e9f912ddcdca7d3a9_360_240.jpg",
+            "id": "headImage",
+            "title": "头图"
+        },
+        "description": {
+            "content": "简单介绍2",
+            "id": "description",
+            "title": "简介"
+        },
+        "imageList": {
+            "title": "imageList",
+            "id": "imageList",
+            "content": [
+                "http://images4.c-ctrip.com/target/tuangou/642/033/120/81a42adee60e4e4e9f912ddcdca7d3a9_360_240.jpg",
+                "http://images4.c-ctrip.com/target/tuangou/642/033/120/81a42adee60e4e4e9f912ddcdca7d3a9_360_240.jpg"
+            ]
+        },
+        "tags": {
+            "title": "标签",
+            "id": "tags",
+            "content": [
+                "标签1",
+                "标签2"
+            ]
+        },
+        "zhitcVersion": 2
+    },
+    "contact": {
+        "poiInfo": {
+            "poi_id": "4206826",
+            "poi_name": "小辉哥火锅(江桥万达店)",
+            "per_price": 40,
+            "poi_dist": "江桥",
+            "business_hours": "8:00 -- 24:00",
+            "pay_atshop": 1,
+            "photo_list": {
+                "env": [
+                    {
+                        "strUrl": ""
+                    }
+                ],
+                "dish": []
+            },
+            "mid_image": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg",
+            "first": [
+                {
+                    "strUrl": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+                }
+            ],
+            "phone": "4006277297|13845664176",
+            "distance": -1,
+            "address": "上海市嘉定区金沙江路1051弄1号万达广场3052和3053"
+        },
+        "shopInfo": {
+            "headImage": {
+                "id": "headImage",
+                "title": "头图",
+                "content": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg3/aHR0cDovL2JqLmJjZWJvcy5jb20vZHV6aGFucmVhZC8wMWViMmI5OC03ZmJmLTQ3NWYtYjM5NS0xNmM4ZjBkNWNkOTUuanBn_400x300.jpg"
+            },
+            "name": {
+                "id": "name",
+                "title": "商家名称",
+                "content": "名字"
+            },
+            "description": {
+                "id": "description",
+                "title": "商家简介",
+                "content": "简介"
+            },
+            "information": {
+                "id": "information",
+                "title": "商户介绍",
+                "content": "时代婚纱摄影，是集婚纱摄影、艺术写真、儿童摄影为一体的摄影公司，公司本着至真、至美的服务理念，为每一位顾客留下美好的一瞬间；我们拥有一支技术超群的年轻创作团队，为客人提供私家专属摄影团队，拍摄全程一对一服务，告别传统的摆拍模式，倡导时尚个性婚纱摄影让新人们享受到真正的拍摄乐趣！"
+            },
+            "serviceFeatures": {
+                "id": "serviceFeatures",
+                "title": "服务特色",
+                "content": [
+                    "底片全送",
+                    "底片全送"
+                ]
+            },
+            "imageList": {
+                "id": "imageList",
+                "title": "商家环境",
+                "content": [
+                    "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/nuomi/pic/item/32fa828ba61ea8d392647cd8910a304e241f58a3.jpg"
+                ]
+            },
+            "bizBridge": {
+                "appid": 10066,
+                "ucid": 18932372,
+                "siteid": "8176036",
+                "randkey": "abc"
+            },
+            "lxb": {
+                "mobile": [
+                    "10698000036539",
+                    "10690691036539"
+                ]
+            }
+        },
+        "detailInfo": {
+            "name": {
+                "content": "说明,这些都是物料信息的各个字段1",
+                "id": "name",
+                "title": "名称1"
+            },
+            "headImage": {
+                "content": "http://images4.c-ctrip.com/target/tuangou/642/033/120/81a42adee60e4e4e9f912ddcdca7d3a9_360_240.jpg",
+                "id": "headImage",
+                "title": "头图1"
+            },
+            "description": {
+                "content": "简单介绍1",
+                "id": "description",
+                "title": "简介1"
+            }
+        }
+    },
+    "comment": {
+        "label": [
+            {
+                "type": 1,
+                "category": "服务",
+                "desc": "上菜速度快",
+                "num": 2
+            }
+        ],
+        "level_num": {
+            "good": 68,
+            "normal": 5,
+            "bad": 2
+        },
+        "sub_score": [
+            {
+                "key": "1",
+                "score": 4.38667,
+                "cnt": 75
+            },
+            {
+                "key": "2",
+                "score": 4.44,
+                "cnt": 75
+            },
+            {
+                "key": "3",
+                "score": 4.42667,
+                "cnt": 75
+            }
+        ],
+        "comment_num": 75,
+        "average_score": 4.58667,
+        "user_num": 69,
+        "total_all": 75,
+        "normal_all": 47,
+        "praise": 0.973333,
+        "pic_comment_num": 4,
+        "comment_list": [
+            {
+                "cmt_id": 354747598,
+                "tuan_id": 4776594,
+                "bill_id": "1023817007",
+                "poi_id": "4206826",
+                "uid": 0,
+                "nickname": "189*****559",
+                "score": 5,
+                "subitem_score": "{\"1\":5,\"2\":5,\"3\":5}",
+                "pic_id": "",
+                "pic_num": 0,
+                "comment_from": 1,
+                "source": 7,
+                "rank": 6875,
+                "quality_rank": 0,
+                "superior": 0,
+                "imei": "",
+                "create_time": 1453083639,
+                "update_time": 1453083639,
+                "ip": 0,
+                "status": 0,
+                "parter_pic_id": 0,
+                "parter_nickname": "",
+                "audit_type": 0,
+                "cuid": "90E5A7E482BBAD557E0C0563C15978D0|585E459500000A",
+                "content_length": 63,
+                "bduid": 1420815800,
+                "content": "服务感觉有些像海底捞靠近，要加强新员工培训",
+                "admin_reply": "",
+                "pic_url": "https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg,https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/timg/349ba2cc-4e80-4ca3-bec2-b0d2756d2d05.jpg_100x100.jpg",
+                "reply": [],
+                "labels": [],
+                "label_offset": [],
+                "reply_num": 0
+            }
+        ],
+        "user_comment": []
+    },
+    "book": {
+        "data": true
+    },
+    "merchant": {
+        "merchantInfo": {
+            "manchant": {
+                "poi_name": "CD视觉婚纱摄影工作室",
+                "distance": 0,
+                "address": "北京市朝阳区东三环中路39号建外SOHO东区5号别墅0104C(近国贸地铁站)",
+                "phone": "15011190981",
+                "tiny_image": "https://ss0.bdstatic.com/9bA1vGba2gU2pMbfm9GUKT-w/timg?nuomina&size=f230_140&quality=70&sec=1418745600&di=a21273780680a9e3e9960ac336ef40e8&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fbainuo%2Fcrop%253D0%252C0%252C470%252C285%253Bw%253D470%253Bq%253D80%2Fsign%3D992a579b7ef0f736ccb1164137659f29%2Fe61190ef76c6a7effc55c9c2fbfaaf51f2de66e6.jpg",
+                "mid_image": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/wh%3D216%2C166/sign=00164a60fcedab64742745c2c60083f2/cdbf6c81800a19d81827b0ae34fa828ba61e4670.jpg",
+                "image": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C700%2C424%3Bw%3D470%3Bq%3D99/sign=75aa0ebf45a7d933abe7be33907bfd23/7aec54e736d12f2ec3219acb48c2d56285356870.jpg",
+                "city_id": 100010000,
+                "poi_id": "8530357",
+                "poi_dist": "国贸",
+                "tags": "t10:0",
+                "ditu_catg_list": "照相馆;婚纱摄影;结婚;生活服务;",
+                "zhitc__wedding_schema": "bainuo://component?compid=zhitc_common&comppage=poi&merchant_id=8530357",
+                "zhitc__wap_schema": "http://m.nuomi.com/component?compid=zhitc_common&comppage=poi&merchant_id=8530357",
+                "origin_tags": "230_1",
+                "deal_id": 11418263,
+                "business_hours": "",
+                "per_price": "632200",
+                "x_baidu": 116.4658932474,
+                "y_baidu": 39.910947861006,
+                "x_mercator": 12965065,
+                "y_mercator": 4825338,
+                "is_shoping_discount": 1,
+                "isSupportQueue": 0,
+                "isOrder": 0,
+                "isSupportHp": 0,
+                "isAward": 0,
+                "tag_properties": {
+                    "has_takeout": 0
+                },
+                "shoping_children_deal_info": [],
+                "dishCount": 0,
+                "photoCount": 50,
+                "poiDealIds": "{\"11972876\":{\"tinyurl\":\"glzfaykx\",\"oriPrice\":50000,\"card\":\"0\"},\"10259823\":{\"tinyurl\":\"gavsqoao\",\"oriPrice\":1299900,\"card\":\"0\"},\"10895137\":{\"tinyurl\":\"z9imkudj\",\"oriPrice\":1288800,\"card\":\"0\"},\"7216513\":{\"tinyurl\":\"zfev3gpu\",\"oriPrice\":688800,\"card\":\"0\"},\"7093825\":{\"tinyurl\":\"gdovgomt\",\"oriPrice\":2288800,\"card\":\"0\"},\"11418263\":{\"tinyurl\":\"w5zapb56\",\"oriPrice\":10000,\"card\":\"0\"},\"7093933\":{\"tinyurl\":\"ctb220rp\",\"oriPrice\":1899900,\"card\":\"0\"}}",
+                "ctag": "W3sicyI6ImRldGFpbCIsImsiOiJwb2kiLCJ0IjoxNDY4MzEwMTA2LCJ2IjoiODUzMDM1NyJ9XQ%3D%3D"
+            },
+            "ugcData": {
+                "stat_label": {
+                    "label": []
+                },
+                "stat_count": {
+                    "count": 1
+                },
+                "rating": 5,
+                "stat_level_num": {
+                    "good": 0,
+                    "normal": 0,
+                    "bad": 0
+                },
+                "stat_tuan": {
+                    "average_score": 5,
+                    "comment_num": 1,
+                    "normal_all": 1,
+                    "pic_comment_num": 0,
+                    "praise": 0,
+                    "total_all": 1,
+                    "user_num": 0
+                },
+                "commentList": [
+                    {
+                        "userName": "笨等儿橙子",
+                        "time": "2016-05-16",
+                        "highQuality": 0,
+                        "content": "这里的老师态度都好好哦！特别满意！礼服师都特别温柔，化妆师技术特好 摄影师也幽默😘😘",
+                        "sourceName": "百度地图",
+                        "rating": 5
+                    }
+                ],
+                "other_score": []
+            },
+            "listDeals": [
+                {
+                    "dealTinyUrl": "glzfaykx",
+                    "dealShortTitle": "CD视觉500元代金券",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D1%2C0%2C999%2C605%3Bw%3D230%3Bq%3D80/sign=8baabe3aca11728b2462d662f5cdeffe/5243fbf2b2119313ead4ce1b62380cd790238d81.jpg",
+                    "promoPrice": 5000,
+                    "oriPrice": 50000,
+                    "titleHighPrice": "500元代金券！免费WiFi！",
+                    "dealId": 11972876,
+                    "distance": 0,
+                    "currentPrice": 5000,
+                    "bought": 0,
+                    "dealUrl": "bainuo://tuandetail?tuanid=11972876&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "1"
+                },
+                {
+                    "dealTinyUrl": "gavsqoao",
+                    "dealShortTitle": "CD视觉5999星级钜惠",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D6%2C0%2C589%2C357%3Bw%3D230%3Bq%3D79/sign=3af1504290dda144ce4636f28f81fc92/b219ebc4b74543a9b4000e9d19178a82b9011443.jpg",
+                    "promoPrice": 599900,
+                    "oriPrice": 1299900,
+                    "titleHighPrice": "婚纱摄影！节假日通用！",
+                    "dealId": 10259823,
+                    "distance": 0,
+                    "currentPrice": 599900,
+                    "bought": 0,
+                    "dealUrl": "bainuo://tuandetail?tuanid=10259823&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "0"
+                },
+                {
+                    "dealTinyUrl": "z9imkudj",
+                    "dealShortTitle": "CD视觉婚纱摄影",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D230%3Bq%3D79/sign=c1f5c54e06e93901424dd77e46dc78d7/b21bb051f81986188b5692ea4ded2e738bd4e64f.jpg",
+                    "promoPrice": 488800,
+                    "oriPrice": 1288800,
+                    "titleHighPrice": "婚纱摄影！节假日通用！",
+                    "dealId": 10895137,
+                    "distance": 0,
+                    "currentPrice": 488800,
+                    "bought": 2,
+                    "dealUrl": "bainuo://tuandetail?tuanid=10895137&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "0"
+                },
+                {
+                    "dealTinyUrl": "zfev3gpu",
+                    "dealShortTitle": "婚纱摄影星级巨惠套系",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D230%3Bq%3D79/sign=93f2316f0d55b31988b6d8357e99ae16/e4dde71190ef76c69bde86459a16fdfaaf51674b.jpg",
+                    "promoPrice": 388800,
+                    "oriPrice": 688800,
+                    "titleHighPrice": "星级巨惠套系！节假日通用！",
+                    "dealId": 7216513,
+                    "distance": 0,
+                    "currentPrice": 388800,
+                    "bought": 0,
+                    "dealUrl": "bainuo://tuandetail?tuanid=7216513&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "0"
+                },
+                {
+                    "dealTinyUrl": "gdovgomt",
+                    "dealShortTitle": "8888星级尊享套系",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D230%3Bq%3D80/sign=00d801f02bf5e0fefa57d34161501898/908fa0ec08fa513dd65062373b6d55fbb3fbd965.jpg",
+                    "promoPrice": 888800,
+                    "oriPrice": 2288800,
+                    "titleHighPrice": "星级尊享套系！节假日通用！",
+                    "dealId": 7093825,
+                    "distance": 0,
+                    "currentPrice": 888800,
+                    "bought": 8,
+                    "dealUrl": "bainuo://tuandetail?tuanid=7093825&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "0"
+                },
+                {
+                    "dealTinyUrl": "w5zapb56",
+                    "dealShortTitle": "CD视觉代金券",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C700%2C424%3Bw%3D230%3Bq%3D99/sign=4fe3e7567c899e516cc160547f97f503/7aec54e736d12f2ec3219acb48c2d56285356870.jpg",
+                    "promoPrice": 100,
+                    "oriPrice": 10000,
+                    "titleHighPrice": "100元代金券！免费WiFi！",
+                    "dealId": 11418263,
+                    "distance": 0,
+                    "currentPrice": 100,
+                    "bought": 0,
+                    "dealUrl": "bainuo://tuandetail?tuanid=11418263&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "1"
+                },
+                {
+                    "dealTinyUrl": "ctb220rp",
+                    "dealShortTitle": "CD视觉星级巨惠套系",
+                    "dealImgUrl": "https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/bainuo/crop%3D0%2C0%2C470%2C285%3Bw%3D230%3Bq%3D79/sign=744d45ab53e736d14c5cd648a66063f2/dbb44aed2e738bd47f5fb946a68b87d6277ff94f.jpg",
+                    "promoPrice": 688800,
+                    "oriPrice": 1899900,
+                    "titleHighPrice": "星级巨惠套系！节假日通用！",
+                    "dealId": 7093933,
+                    "distance": 0,
+                    "currentPrice": 688800,
+                    "bought": 3,
+                    "dealUrl": "bainuo://tuandetail?tuanid=7093933&s=8a71a1551517e3eeabbf7c4d7d11199a&areaid=100010000&sellid=8530357",
+                    "catg_info": [
+                        {
+                            "id": 316,
+                            "name": "生活服务"
+                        }
+                    ],
+                    "go_flash": "0",
+                    "personal_info": "0",
+                    "ugc_info": "0",
+                    "usual_info": "0",
+                    "t10": "0",
+                    "card": "0",
+                    "promotion": "0",
+                    "voucher": "0"
+                }
+            ],
+            "listNearDeals": [],
+            "listServices": {
+                "data": [],
+                "curPage": 1,
+                "pageSize": 20,
+                "totalPage": 0,
+                "totalCount": 0
+            }
+        },
+        "collection": {
+            "isCollect": 1
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_11_common_topic\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "头图",
+            "content": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147201010633.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "时尚浪漫婚纱"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "时代浪漫婚纱，以时尚的风格拍摄记录浪漫美好的瞬间"
+        },
+        "information": {
+            "id": "information",
+            "title": "详细介绍",
+            "content": "时代婚纱摄影，是集婚纱摄影、艺术写真、儿童摄影为一体的摄影公司，公司本着至真、至美的服务理念，为每一位顾客留下美好的一瞬间；我们拥有一支技术超群的年轻创作团队，为客人提供私家专属摄影团队，拍摄全程一对一服务，告别传统的摆拍模式，倡导时尚个性婚纱摄影让新人们享受到真正的拍摄乐趣！"
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图集",
+            "content": [
+                "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147201010687.jpg",
+                "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147201010742.jpg",
+                "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147201010834.jpg"
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": [
+                "交通便利",
+                "交通便利"
+            ]
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_12_common_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/v1/duzhanread/1555de32-1df3-4a91-89f6-a7fe42df3fde_cut.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "时代婚纱户外经典套餐"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "时代婚纱,户外经典拍摄，留下您的美丽，让爱的。。。"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图片详情",
+            "content": [
+                "http://bj.bcebos.com/v1/duzhanread/caf7f6ee-9f0d-4c45-bf2e-1ac373f466d5_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/d54a39e5-99a9-4c9d-b7a3-dd95fbbdd495_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/d1fde48c-7567-4a16-8f02-1a4c412d656e_cut.jpg"
+            ]
+        },
+        "information": {
+            "id": "information",
+            "title": "服务详情",
+            "content": "时代婚纱摄影，是集婚纱摄影、艺术写真、儿童摄影为一体的摄影公司，公司本着至真、至美的服务理念，为每一位顾客留下美好的一瞬间；我们拥有一支技术超群的年轻创作团队，为客人提供私家专属摄影团队，拍摄全程一对一服务，告别传统的摆拍模式，倡导时尚个性婚纱摄影让新人们享受到真正的拍摄乐趣！"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": ["交通便利","免费WIFI"]
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_13_wedding_topic\"}": {
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "城堡热恋"
+        },
+        "style": {
+            "id": "style",
+            "title": "主题风格",
+            "content": "欧美大气"
+        },
+        "scene": {
+            "id": "scene",
+            "title": "场景",
+            "content": "宫殿教堂"
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图集",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/8167cbd7-4cc4-4f0c-a302-b86308e81adc.jpg",
+                "http://bj.bcebos.com/duzhanread/a9cce431-38f4-48fb-96e2-b6f2db3acade.jpg",
+                "http://bj.bcebos.com/duzhanread/3ac6f93f-4de9-4e5e-a56d-9b39f3c55df3.jpg",
+                "http://bj.bcebos.com/duzhanread/5e6aa4ea-a5e6-4901-b739-3564ea8f49a5.jpg",
+                "http://bj.bcebos.com/duzhanread/919934fb-3bf4-4864-819c-7cac34828655.jpg",
+                "http://bj.bcebos.com/duzhanread/000ef4ef-d7fa-4324-90de-ca9ef735540f.jpg",
+                "http://bj.bcebos.com/duzhanread/295145e9-fefd-4f3c-a130-229e73afab43.jpg",
+                "http://bj.bcebos.com/duzhanread/a45158e3-e443-4dad-bbd7-23b1de08d83f.jpg",
+                "http://bj.bcebos.com/duzhanread/e00062a6-b46b-411b-ba18-bece14e6b31f.jpg",
+                "http://bj.bcebos.com/duzhanread/ba2f6755-3a3b-408d-8ee8-79fba1854da7.jpg"
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_14_wedding_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/03df9ce9-c0c6-4f31-8b6d-7be0e632efa4.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "套餐名称",
+            "content": "个人尚品写真套系"
+        },
+        "description": {
+            "id": "description",
+            "title": "套餐简介",
+            "content": "仅售1688元，价值2688元个人尚品写真套系！"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageDetail": {
+            "id": "imageDetail",
+            "title": "图文详情",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/c97704ef-4924-41d1-9d5e-d5b4cd9c13cc.jpg",
+                "http://bj.bcebos.com/duzhanread/f02ffbb1-9ab6-4c4e-acaf-a4c2ffac149b.jpg",
+                "http://bj.bcebos.com/duzhanread/934df7bf-90ed-4eff-905f-3d8577a294d5.jpg",
+                "http://bj.bcebos.com/duzhanread/c173b9b9-7de1-4d0b-a643-547416912bcf.jpg",
+                "http://bj.bcebos.com/duzhanread/ec1aba66-32cf-44cd-9016-3825308eadb9.jpg",
+                "http://bj.bcebos.com/duzhanread/f64a2a37-a091-4e51-9d4e-6c553c22fb9c.jpg",
+                "http://bj.bcebos.com/duzhanread/8b55ef9d-2c98-49c0-8cc0-bf8b2143a87e.jpg",
+                "http://bj.bcebos.com/duzhanread/59d4b8f3-f009-48f7-b205-4a85294c3100.jpg",
+                "http://bj.bcebos.com/duzhanread/e061aa12-c527-423f-abdd-9b8dbd2230e6.jpg",
+                "http://bj.bcebos.com/duzhanread/a8aa6d54-865b-48a5-b381-fb93db6941f1.jpg"
+            ]
+        },
+        "information": {
+            "id": "information",
+            "title": "图片说明",
+            "content": null
+        },
+        "type": {
+            "id": "type",
+            "title": "套餐类型",
+            "content": null
+        },
+        "subType": {
+            "id": "subType",
+            "title": "写真类型",
+            "content": null
+        },
+        "dressQuantity": {
+            "id": "dressQuantity",
+            "title": "服装数量",
+            "content": "3"
+        },
+        "dressInfo": {
+            "id": "dressInfo",
+            "title": "服装说明",
+            "content": "婚纱礼服：皇室品牌pronovias，所有婚纱礼服均为独家设计师纯手工设计打造而成，尊享奢华高贵！"
+        },
+        "modelInfo": {
+            "id": "modelInfo",
+            "title": "造型说明",
+            "content": "顶级彩妆：独创氧气妆面，全程使用DIOR、MAC、Lunasol、Bobbi brown等国际一线化妆品牌，疼爱您的肌肤，打造百分百完美新娘"
+        },
+        "sceneQuantity": {
+            "id": "sceneQuantity",
+            "title": "场景数量",
+            "content": "100"
+        },
+        "sceneInfo": {
+            "id": "sceneInfo",
+            "title": "场景搭配",
+            "content": "CD视觉独家摄影基地内景、外景"
+        },
+        "innerScene": {
+            "id": "innerScene",
+            "title": "内景说明",
+            "content": "纯韩设计师团队打造CD视觉独家《尚品印象馆》5大主题2大阳光棚错落有致,任选随便拍！"
+        },
+        "outerScene": {
+            "id": "outerScene",
+            "title": "外景说明",
+            "content": "暂无"
+        },
+        "photoQuantity": {
+            "id": "photoQuantity",
+            "title": "拍摄数量",
+            "content": "90"
+        },
+        "editQuantity": {
+            "id": "editQuantity",
+            "title": "精修数量",
+            "content": "20"
+        },
+        "albumQuantity": {
+            "id": "albumQuantity",
+            "title": "相册数量",
+            "content": "1"
+        },
+        "albumInclude": {
+            "id": "albumInclude",
+            "title": "相册包含",
+            "content": "10*10寸 CDVISION 私人定制限量版杂志册"
+        },
+        "frameQuantity": {
+            "id": "frameQuantity",
+            "title": "相框数量",
+            "content": "2"
+        },
+        "frameInclude": {
+            "id": "frameInclude",
+            "title": "相框包含",
+            "content": "10寸CDVISION 私人定制爆款手工拉米娜X1\n 8寸CDVISION 私人定制爆款手工拉米娜X1"
+        },
+        "otherInclude": {
+            "id": "otherInclude",
+            "title": "其他包含",
+            "content": "6寸CDVISION 私人定制爆款手工拉米娜X1"
+        },
+        "photoLevel": {
+            "id": "photoLevel",
+            "title": "摄影师级别",
+            "content": "资深"
+        },
+        "photoAssistant": {
+            "id": "photoAssistant",
+            "title": "摄影助理",
+            "content": "有"
+        },
+        "dresserLevel": {
+            "id": "dresserLevel",
+            "title": "化妆师级别",
+            "content": "资深"
+        },
+        "dresserAssistant": {
+            "id": "dresserAssistant",
+            "title": "化妆师助理",
+            "content": "有"
+        },
+        "remarks": {
+            "id": "remarks",
+            "title": "补充说明",
+            "content": "订单成功即赠送专职化妆师+发型师贴身服务"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_15_hoursekeeping_topic\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "人物首图",
+            "content": "http://bj.bcebos.com/duzhanread/0fbb78c1-67b8-4e08-aab4-6ce62df6901d.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "称呼",
+            "content": "龙桂芳"
+        },
+        "nativePlace": {
+            "id": "nativePlace",
+            "title": "籍贯",
+            "content": "广西"
+        },
+        "birthYear": {
+            "id": "birthYear",
+            "title": "年龄",
+            "content": "47年"
+        },
+        "workYear": {
+            "id": "workYear",
+            "title": "工作年限",
+            "content": "10年"
+        },
+        "personalAdvantage": {
+            "id": "personalAdvantage",
+            "title": "擅长服务",
+            "content": "高级育婴师职称"
+        },
+        "personalDescription": {
+            "id": "personalDescription",
+            "title": "详细介绍",
+            "content": "2006-2010年 从事月嫂5年，带过几十个宝宝2010-至今 从事育婴师工作，并且有涉外保姆经验"
+        },
+        "worksImageList": {
+            "id": "worksImageList",
+            "title": "图集",
+            "content": ""
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_16_hoursekeeping_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/d4e95f04-91d5-4ce4-833e-e928be7d4168.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "日常保洁"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "家庭日常保洁，节假日通用，请提前1天预约"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "项目图集",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/aaa0be64-a0f8-4f9a-a8c6-734a9eb60568.jpg",
+                "http://bj.bcebos.com/duzhanread/5ace541c-e9e2-4842-9add-4fde6d2c6988.jpg",
+                "http://bj.bcebos.com/duzhanread/283c5046-2a48-4f6a-83ab-0df7275805fb.jpg",
+                "http://bj.bcebos.com/duzhanread/d27467ad-391d-482b-bac0-dd7ef6ba49d6.jpg",
+                "http://bj.bcebos.com/duzhanread/79ae2092-b89f-4291-8eff-62864153c1fa.jpg"
+            ]
+        },
+        "information": {
+            "id": "information",
+            "title": "详细信息",
+            "content": "家庭日常保洁：包括家具、地面清洁，厨房(墙 砖、PVC顶、灶具、灶台、地面)擦洗，卫生间( 卫具、墙砖、PVC顶、浴房、地面)清洗 注：服务不包含手洗衣服、擦灯具、清除建筑垃圾、清洁拖排油烟机、擦玻璃窗、清洗纱窗，窗帘等服务；如需擦玻璃和清洗纱窗，按15元/平方收费。"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_17_education_topic\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "人物首图",
+            "content": "http://bj.bcebos.com/duzhanread/2d070adb-c9a5-4fe7-9c18-a619927baec3.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "人物名称",
+            "content": "张冰"
+        },
+        "description": {
+            "id": "description",
+            "title": "人物简介",
+            "content": "资深声乐教师，二胡教师"
+        },
+        "workYear": {
+            "id": "workYear",
+            "title": "工作日期",
+            "content": "6年"
+        },
+        "personalAdvantage": {
+            "id": "personalAdvantage",
+            "title": "个人擅长",
+            "content": "声乐，二胡，电子琴"
+        },
+        "personalDescription": {
+            "id": "personalDescription",
+            "title": "工作经历",
+            "content": "张冰 声乐\n17岁开始学习声乐，2008年师承苗鸿信教授学习通俗唱法，2012年参加国家图书馆中秋迎国度联谊会，2015被邀参加星光大道，2015年10月参加中国梦想秀，2015年11月参加清华大学公益晚会跟著名歌手张行，陈红，歌唱家陈思思同台献艺，2010开始在北京各大培训学校，大学里讲课受到欢迎与认可！"
+        },
+        "worksImageList": {
+            "id": "worksImageList",
+            "title": "作品图集",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/8b12b1cb-7787-403d-b99e-7180f6bcbdff.jpg",
+                "http://bj.bcebos.com/duzhanread/67e45681-ffbd-4f43-a25a-2953d5ba0674.jpg",
+                "http://bj.bcebos.com/duzhanread/fb03918f-7cf6-4082-a4f8-c0909ef2cfdd.jpg",
+                "http://bj.bcebos.com/duzhanread/a4a626c4-c4c6-4f53-afc5-cb73935a92a4.jpg"
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_18_education_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/4fcbce24-8f5f-4cab-91bc-3c87b0713935.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "标题",
+            "content": "电吉他课程"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "成人速成，少儿电吉他，成人电吉他"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图文详情",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/f04f8551-fe59-40b1-91a6-39099296e244.jpg",
+                "http://bj.bcebos.com/duzhanread/6bb47e10-f14a-4ef7-8648-0b3f7abe3f92.jpg"
+            ]
+        },
+        "type": {
+            "id": "type",
+            "title": "课程类型",
+            "content": "器乐类"
+        },
+        "suitableAge": {
+            "id": "suitableAge",
+            "title": "适合年龄段",
+            "content": "4-70岁"
+        },
+        "classTime": {
+            "id": "classTime",
+            "title": "上课时间",
+            "content": "周一到周日9:00-21:00"
+        },
+        "audition": {
+            "id": "audition",
+            "title": "有无试听",
+            "content": "有"
+        },
+        "classTotal": {
+            "id": "classTotal",
+            "title": "总课时数",
+            "content": "12课时"
+        },
+        "classPeriod": {
+            "id": "classPeriod",
+            "title": "每次课长",
+            "content": "60分钟"
+        },
+        "area": {
+            "id": "area",
+            "title": "中心面积",
+            "content": "258平方米"
+        },
+        "teacherFeature": {
+            "id": "teacherFeature",
+            "title": "师资特色",
+            "content": "自2003年学习吉他和流行音乐，曾多次开设吉他教学班，带过学生百余个，能有针对性的进行吉他教学工作，旗下的学员诸多现已活动在北京各个音乐舞台。"
+        },
+        "courseDescription": {
+            "id": "courseDescription",
+            "title": "课程介绍",
+            "content": "认识以及掌握曲谱相关知识，基本功的训练以及掌握，左右脑搭配伴奏以及主旋。乐曲的节奏，乐感的把控"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_19_beauty_topic\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "人物首图",
+            "content": "http://bj.bcebos.com/duzhanread/fc08c598-7fab-4a5b-a06f-61d3d1299eba.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "人物名称",
+            "content": "文雯"
+        },
+        "description": {
+            "id": "description",
+            "title": "人物简介",
+            "content": "10年美胸经验，传统中医与现代科技结合服务数千客户"
+        },
+        "workYear": {
+            "id": "workYear",
+            "title": "个人资历",
+            "content": "11年"
+        },
+        "personalAdvantage": {
+            "id": "personalAdvantage",
+            "title": "个人擅长",
+            "content": "产后胸部恢复调理、产后开奶、催奶、回奶"
+        },
+        "personalDescription": {
+            "id": "personalDescription",
+            "title": "工作经历",
+            "content": "从2005开始，从事美胸事业"
+        },
+        "worksImageList": {
+            "id": "worksImageList",
+            "title": "作品图集",
+            "content": [
+                ""
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_20_beauty_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/3154bc71-1819-426b-a06b-ce774e1fb38d.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "单人瘦身纤体套餐"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "腹部走罐+葡萄味饮品"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图文详情",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/c472954a-96cc-46a7-a0ea-b7b789783ee4.jpg"
+            ]
+        },
+        "serveInfo": {
+            "id": "serveInfo",
+            "title": "服务内容",
+            "content": "腹部走爟<br /><br />配合饮用紫琪尔葡萄味饮品，疏通经络、净排、平衡气血、调理内分泌、加速血液循环、促进肠胃蠕动、加快机体新陈代谢，从根本上达到速度纤体。"
+        },
+        "product": {
+            "id": "product",
+            "title": "使用产品",
+            "content": "紫琪尔葡萄纤丽饮品主要成分：葡萄籽、玉米、燕麦、小麦胚芽等。葡萄籽具有良好的美容保健，能抗氧化去除自由基，搭配玉米、燕麦、小麦胚芽等含有丰富膳食纤维的谷物，达到很好的增强饱腹感，瘦身。"
+        },
+        "serveTime": {
+            "id": "serveTime",
+            "title": "服务时长",
+            "content": "单人瘦身纤体套餐，整个套餐服务时长：30分钟"
+        },
+        "servePeriod": {
+            "id": "servePeriod",
+            "title": "服务过程",
+            "content": "使用紫琪尔葡萄味饮品，调理内分泌，腹部走罐+葡萄味饮品"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_21_flower_topic\"}": {
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "《Tango》"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "Tango系列，为舞者设计！"
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图集",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/6ba1e8fe-3a8f-4a63-a135-3105a9b8fdb5.jpg",
+                "http://bj.bcebos.com/duzhanread/4172a098-ea2f-45bd-b319-538edfe68252.jpg",
+                "http://bj.bcebos.com/duzhanread/78843f84-6b95-4832-86da-00412f333428.jpg",
+                "http://bj.bcebos.com/duzhanread/390e5b15-51bd-4288-b7c6-48b202e840ab.jpg",
+                "http://bj.bcebos.com/duzhanread/0c9fc4e2-1631-466b-867d-7b34734ef466.jpg"
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_22_flower_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/026a5ffa-00a7-4be6-ba4e-11ad42573ab6.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "香颂系列"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "快乐需要分享，生活值得庆祝！"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图片详情",
+            "content": [
+                "http://bj.bcebos.com/v1/duzhanread/0aa5b5e1-a508-482d-81cc-c30b62dd7e3b_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/c3acc93c-60e2-4c72-b221-b701fcedf892_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/5fc82cac-7108-471c-a7cd-cbfa435432ce_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/d9179d99-4203-4b42-9a7d-7da7d6e3d7a8_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/25c1b938-d6ee-4b9b-a9d8-ea504a32cca1_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/0ef3c5ba-59e4-4daf-9c11-15651f8ad5c3_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/2f761eaa-474c-46b5-8587-e27f7b8afbdc_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/e9f8cd63-3d99-48fa-9efd-54acaf1bd38b_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/e2e7c637-b7f8-44dd-b426-90c6f35d5fc2_cut.jpg",
+                "http://bj.bcebos.com/v1/duzhanread/a16e9073-3d5b-44e1-9547-f81b1f607b82_cut.jpg"
+            ]
+        },
+        "scene": {
+            "id": "scene",
+            "title": "适用场景",
+            "content": [
+                "爱意表达",
+                "生日",
+                "祝福",
+                "婚礼",
+                "探望",
+                "求婚",
+                "友情"
+            ]
+        },
+        "mainFlower": {
+            "id": "mainFlower",
+            "title": "鲜花主花材",
+            "content": "混搭花束"
+        },
+        "target": {
+            "id": "target",
+            "title": "适用对象",
+            "content": [
+                "爱人",
+                "长辈",
+                "朋友",
+                "同事"
+            ]
+        },
+        "flowerNum": {
+            "id": "flowerNum",
+            "title": "鲜花朵数",
+            "content": "50"
+        },
+        "wiseFlower": {
+            "id": "wiseFlower",
+            "title": "花束辅材",
+            "content": "原创欧根纱装饰"
+        },
+        "festival": {
+            "id": "festival",
+            "title": "适用节日",
+            "content": [
+                "情人节",
+                "母亲节",
+                "父亲节"
+            ]
+        },
+        "package": {
+            "id": "package",
+            "title": "包装",
+            "content": "原创设计"
+        },
+        "referencePrice": {
+            "id": "referencePrice",
+            "title": "参考价格",
+            "content": "599"
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_23_vehicle_topic\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "头图",
+            "content": "http://bj.bcebos.com/duzhanread/b1be2925-0874-43b5-aa04-a25a777e453b.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "汽车座椅通风"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "座椅通风，让您感受驾驶的乐趣在路上！"
+        },
+        "information": {
+            "id": "information",
+            "title": "详细信息",
+            "content": "产品性能参数：V=12V,P=1.5W,适合12V各类轿车车型。具有三档风量调节功能，同时具备了风机短路保护、欠压保护等功能。可将不同档位的风源源不断地将新鲜空气从座椅坐垫和靠背上的小孔流出，防止臀部和后背积汗，从而有效地改善了人体与椅面接触部分的空气流通环境，即使长时间乘坐身体与座位的接触也会清爽舒适"
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图集",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/9f39876d-897a-498e-9c00-ae3cfb0a4a18.jpg",
+                "http://bj.bcebos.com/duzhanread/bdd04bac-e9f4-494a-ac9d-400b1548c5ae.jpg",
+                "http://bj.bcebos.com/duzhanread/18214602-57b2-4c57-85f7-92c2b4d262e1.jpg",
+                "http://bj.bcebos.com/duzhanread/2b483d99-2f96-4d34-8629-a3e09d5250c5.jpg"
+            ]
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    },
+    "detail.{\"guid\":\"mat_sys_24_vehicle_package\"}": {
+        "headImage": {
+            "id": "headImage",
+            "title": "首图",
+            "content": "http://bj.bcebos.com/duzhanread/80643e0a-6671-43b0-adfd-49ab5f4cced9.jpg"
+        },
+        "name": {
+            "id": "name",
+            "title": "名称",
+            "content": "奥迪个性改装真皮座椅"
+        },
+        "description": {
+            "id": "description",
+            "title": "简介",
+            "content": "定制奥迪真皮座椅，我有我个性！"
+        },
+        "startPrice": {
+            "id": "startPrice",
+            "title": "最低价格",
+            "content": 100
+        },
+        "endPrice": {
+            "id": "endPrice",
+            "title": "最高价格",
+            "content": 128
+        },
+        "imageList": {
+            "id": "imageList",
+            "title": "图片详情",
+            "content": [
+                "http://bj.bcebos.com/duzhanread/0b178564-0c26-4ec7-a367-c5ffd1ede72c.jpg",
+                "http://bj.bcebos.com/duzhanread/099cf20b-6560-450f-96d1-e22dd3aa4784.jpg",
+                "http://bj.bcebos.com/duzhanread/8c34ae35-f7ed-4cc6-928e-664779145f02.jpg",
+                "http://bj.bcebos.com/duzhanread/ac7ba0d5-66de-4d1e-b3f1-db0b9b04179d.jpg",
+                "http://bj.bcebos.com/duzhanread/ba24217d-9b8e-428e-8947-39775d348c79.jpg"
+            ]
+        },
+        "information": {
+            "id": "information",
+            "title": "文字描述",
+            "content": "奥迪专车专用真皮，采用进口黄牛票精心缝制，细腻的皮质，柔软的手感，顿使压抑感荡然无存，带来的只有高贵，雅致，突破传统，突破你的视觉疲劳，感观的耳目一新，体会到的正是奥迪的品牌价值---进取 尊贵 动感."
+        },
+        "tags": {
+            "id": "tags",
+            "title": "物料标签",
+            "content": []
+        }
+    }
+}

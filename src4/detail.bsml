@@ -1,0 +1,13 @@
+<page name="detail" type="detail">
+<log/>
+<share/>
+<mobile/>
+<preview/>
+<def com="lPoiADetail"/>
+<def com="lSimADetail"/>
+<def com="lIntroADetail"/>
+<def com="lImgListCDetail"/>
+<def com="lTopicADetail" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lServiceBDetail" zhitcGuid="mat_sys_12_common_package"/>
+<booking/>
+</page>

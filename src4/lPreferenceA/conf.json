@@ -1,0 +1,19 @@
+{
+    type: 'lPreferenceA',
+    name: '最新活动',
+    desc: '自定义组件最新活动',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'preference',
+
+    properties: [
+      {
+            name: 'limit',
+            text: '数量限制',
+            type: 'var',
+            desc: '数量限制',
+            value: '2'
+
+        }
+        ]
+}
