@@ -1,5 +1,5 @@
 <section class="lPoiAP">
-    <img src="${poi.poiInfo.mid_image}" data-link="bainuo://component?compid=merchants&comppage=photos"/>
+    <img src="${poi.poiInfo.photo_list.first[0].strPUrl}" data-link="bainuo://component?compid=merchants&comppage=photos"/>
     <div class="lPoiAP-box">
         <div class="shade">
             <h3 class="NS-titlePoi">${poi.poiInfo.poi_name}</h3>
