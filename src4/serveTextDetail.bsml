@@ -1,8 +1,0 @@
-<page name="serveTextDetail" type="udf"> 
-    <log />
-    <share />
-    <nav target="serveImgDetail" active="text" />
-    <gap /> 
-    <detail content="detail" />
-</page> 
-

@@ -1,8 +1,0 @@
-<page name="shop" type="shop"> 
-    <log />
-    <share />
-    <def com="lPoiAShop" />
-    <def com="lTopicAShop" />
-    <def com="lBsinfoAShop" />
-    <def com="lCarouselAShop" />
-</page> 
