@@ -9,7 +9,7 @@
                   <span class="lPoiAP-score-count"></span>
             </p>
             {{ if: ${poi.poiInfo.per_price} }}
-                <span class="lPoiAP-score-per">${poi.poiInfo.per_price}/人</span>
+                <span class="lPoiAP-score-per">&yen;${poi.poiInfo.per_price}/人</span>
             {{ /if }}
         </div>
     </div>
