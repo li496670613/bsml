@@ -1,0 +1,33 @@
+*{-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.lActivityA{
+    position: relative;
+    width: 100%;
+    background: url(resources/lActivityA.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+
+.lActivityA-box {
+    overflow: hidden;
+    position: relative;
+}
+
+.lActivityA-box>span {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+    color:inherit;
+}
+
+.lActivityA-box>p {
+    color:inherit;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+}
+section.lActivityA{height:94vw;padding-top:82vw;padding-left:18.00vw;padding-right:16.00vw;color:#a10000;font-size:2.73vw;text-align:left;}

@@ -1,0 +1,11 @@
+{
+  type: 'lPoiAP',
+  name: '自定义头部信息', // 用于 editor 显示
+  desc: '自定义头部信息',
+  logo: '',
+  tags: ['直通车-自定义'],
+  data: 'poi',
+
+  // 提供给editor生成编辑表单
+  properties: []
+}

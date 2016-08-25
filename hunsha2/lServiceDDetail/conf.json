@@ -1,0 +1,10 @@
+{
+    type: 'lServiceDDetail',
+    name: '自定义组题',
+    desc: '自定义组题',
+    logo: '',
+    tags: ['直通车-自定义'],
+    data: 'services',
+
+    properties: []
+}

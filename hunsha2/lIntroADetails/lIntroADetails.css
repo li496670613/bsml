@@ -1,0 +1,12 @@
+*{-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.lIntroADetails{
+    position: relative;
+    width: 100%;
+    background: url(resources/lIntroADetails.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+
+section.lIntroADetails{height:52vw;padding-top:13.33vw;padding-right:10vw;padding-left:15vw;color:#434343;text-align:left;font-size: 3.5vw}

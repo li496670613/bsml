@@ -1,0 +1,84 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lServiceDDetails {
+    position: relative;
+    width: 100%;
+    background: url(resources/lServiceDDetails.jpg) no-repeat top center #fff;
+    background-size: 100% auto!important;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+.lServiceDDetails-content{
+    padding-bottom: 10vw;
+    height: 100%;
+    overflow: hidden;
+}
+.lServiceDDetails-contents{
+    overflow: hidden;
+    height: 100%;
+    display:box;
+    display:-webkit-box;
+    display:-moz-box;
+    box-orient:vertical;
+    -moz-box-orient:vertical;
+    -webkit-box-orient:vertical;
+}
+.lServiceDDetails-box{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    box-flex:1;
+    -moz-box-flex:1;
+    -webkit-box-flex:1;
+    height: 100%;
+}
+
+.con-hide{display: none;}
+
+.oImage{
+    overflow: hidden;
+}
+.oImage img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.lServiceDDetails-item-info{
+    line-height: 1.5;
+    float: left;
+}
+.lServiceDDetails-item-info p{
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lServiceDDetails-item-info span{
+    display: block;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lServiceDDetails-item-info b{
+    display: block;
+    font-weight: normal;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.more-item{
+    color: transparent;
+    display: block;
+    line-height: 2;
+}
+section.lServiceDDetails{height:122vw;padding-top:13.60vw;padding-right:0.00vw;padding-bottom:0.00vw;padding-left:2.13vw;text-align:left;}
+div.oImage{width:61vw;}
+p.NS-titleService{margin-top:7.47vw;padding-left:2.67vw;font-size:4.27vw;}
+span.NS-priceService{padding-left:1.33vw;color:#ffffff;font-size:3.73vw;}
+b.NS-countService{margin-top:5.33vw;padding-left:16.00vw;}

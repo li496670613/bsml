@@ -1,0 +1,14 @@
+<page name="detail" type="detail" title="特色详情" guid="mat_sys_11_common_topic">
+<log/>
+<share/>
+<mobile/>
+<preview/>
+<def com="lPoiADetail"/>
+<def com="lSimADetail"/>
+<def com="lIntroADetail"/>
+<def com="lImgListCDetail"/>
+<def com="lServiceDDetail" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lSalesADetail"/>
+<def com="lTopicADetail" zhitcGuid="mat_sys_11_common_topic"/>
+<booking/>
+</page>

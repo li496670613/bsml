@@ -1,0 +1,27 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.lPreferenceA {
+    position: relative;
+    background: url(resources/lPreferenceA.jpg) no-repeat center #fff;
+    background-size: 100% auto!important;
+    width: 100%;
+    overflow: hidden;
+    font-family: Microsoft Yahei,sans-serif;
+    color: #000;
+}
+.lPreferenceA p{
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height: 1.5;
+}
+.content-hide{
+    display: none;
+}
+section.lPreferenceA{height:25vw;padding-top:6.67vw;padding-right:0.00vw;padding-bottom:0.00vw;padding-left:13.87vw;color:#434343;font-size:3.93vw;text-align:left;}

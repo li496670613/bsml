@@ -1,0 +1,17 @@
+<page name="detail2" type="detail" title="服务详情" guid="mat_sys_12_common_package">
+<log/>
+<share/>
+<mobile/>
+<preview/>
+<def com="lPoiADetails"/>
+<def com="lSpriceADetails"/>
+<def com="lSimADetails"/>
+<def com="lIntroADetails"/>
+<def com="lPhoneADetails"/>
+<def com="lAddressADetails"/>
+<def com="lImgListCDetails"/>
+<def com="lServiceDDetails" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lSalesADetails"/>
+<comment />
+<booking/>
+</page>

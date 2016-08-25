@@ -1,0 +1,18 @@
+<page name="poi" type="poi" title="店铺首页">
+<log/>
+<share/>
+<mobile/>
+<preview/>
+<def com="lPoiAP"/>
+<def com="lPreferenceA"/>
+<def com="lShophoursA"/>
+<def com="lAddressA"/>
+<def com="lPhoneA"/>
+<def com="lTopicA" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lServiceD" zhitcGuid="mat_sys_11_common_topic"/>
+<def com="lActivityA" />
+<def com="lSalesA"/>
+<def com="lShopInfoA"/>
+<comment />
+<booking/>
+</page>

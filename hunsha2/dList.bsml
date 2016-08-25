@@ -1,0 +1,9 @@
+<page name="dList" type="udf" title="服务列表"> 
+      <log />
+      <share />
+      <mobile /> 
+      <services zhitcGuid="mat_sys_12_common_package" />
+      <gap />
+      <sales />
+      <booking />
+</page> 
