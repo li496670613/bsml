@@ -13,7 +13,6 @@
             type: 'var',
             desc: '数量限制',
             value: '2'
-
         }
         ]
 }

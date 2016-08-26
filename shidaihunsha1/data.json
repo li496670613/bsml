@@ -125,6 +125,21 @@
                 "current_price": 7990,
                 "market_price": 10000,
                 "sale_count": 200
+            },
+            {
+                "id": 979791,
+                "image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "tiny_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "mid_image": "http://cfkfc.img48.wal8.com/img48/551748_20160705150738/147200748045.jpg",
+                "business_title": "小辉哥火锅",
+                "medium_title": "价值100元代金券！无需预约！提供免费WiFi！可叠加使用！",
+                "min_title": "时代婚纱海边浪漫主义婚纱照代金券",
+                "title_high_price": "价值100元代金券！可叠加使用！",
+                "tags": "appoint:1,go_flash:0, personal_info:0, ugc_info:0, usual_info:1,t10:1,card:0, promotion:0, voucher:0",
+                "score": 46230,
+                "current_price": 7990,
+                "market_price": 10000,
+                "sale_count": 200
             }
         ],
         "poiInfo": {

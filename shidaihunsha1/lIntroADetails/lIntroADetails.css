@@ -9,4 +9,5 @@
     color: #000;
 }
 
-section.lIntroADetails{height:105vw;padding-top:20.00vw;padding-right:2.67vw;padding-bottom:0.00vw;padding-left:2.67vw;color:#555555;font-size:4.27vw;text-align:center;overflow: hidden;}
+.lIntroADetails:after{content: "";position: absolute;display: block;bottom: 0;left: 0;background: url("resources/lIntroADetails1.jpg") no-repeat center;background-size: 100% 100%;height: 35vw;width: 100%;}
+section.lIntroADetails{min-height:105vw;padding-top:20.00vw;padding-right:2.67vw;padding-bottom:37vw;padding-left:2.67vw;color:#555555;font-size:4.27vw;text-align:center;overflow: hidden;}

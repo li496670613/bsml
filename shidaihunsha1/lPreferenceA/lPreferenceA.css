@@ -22,7 +22,8 @@
     line-height: 1.5;
     height:11.5vw;
 }
+.lPreferenceA span{color: #71b2b4;}
 .content-hide{
     display: none;
 }
-section.lPreferenceA{height:37vw;padding-top:7.47vw;padding-right:26.67vw;padding-bottom:0.00vw;padding-left:20.80vw;color:#636363;font-size:3.73vw;text-align:left;}
+section.lPreferenceA{height:37vw;padding-top:7.47vw;padding-right:26.67vw;padding-bottom:0.00vw;padding-left:3.80vw;color:#636363;font-size:3.73vw;text-align:left;}

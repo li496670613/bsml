@@ -11,6 +11,11 @@ function bindEvents(me) {
     $(".lPoiAP-score-empty").css({
         "width": scoreStyle
     });
+
+    $(me.wrapper).click(function() {
+        url = 'bainuo://component?compid=merchants&comppage=photos';
+        BNJS.page.start(url, {merchantId: me.data.poi.poiInfo.poi_id}, 0);
+    });
     $(".lPoiAP-score-count").html(average_score);
     if (!me.data.poi.poiInfo) {
         return;
