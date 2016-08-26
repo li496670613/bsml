@@ -7,6 +7,11 @@
     overflow: hidden;
     font-family: Microsoft Yahei,sans-serif;
     color: #000;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height: 1.5;
 }
 
-section.lSimADetails{height:11vw;padding-top:3.20vw;padding-right:10vw;padding-left:13.33vw;color:#a20000;text-align:left;font-size: 3vw}
+section.lSimADetails{height:10.5vw;padding-right:10vw;padding-left:13.33vw;color:#a20000;text-align:left;font-size: 3vw}

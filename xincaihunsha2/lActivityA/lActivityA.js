@@ -11,6 +11,9 @@ function bindEvents(me) {
         PAY = 'http://t10sc.nuomi.com/paynow/wap/order';
     }
     var $main = $(me.main);
+    if (!me.data.poi.poiInfo.shoping_price_info||!me.data.poi.poiInfo.shoping_time_info){
+        $main.hide();
+    }
     if (me.data.poi.poiInfo) {
         $main.on('click', function() {
             BNJS.page.start(PAY, {

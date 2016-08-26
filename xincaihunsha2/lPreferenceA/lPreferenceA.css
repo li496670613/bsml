@@ -24,4 +24,7 @@
 .content-hide{
     display: none;
 }
+
+.lPreferenceA span{color: red;}
+
 section.lPreferenceA{height:25vw;padding-top:6.67vw;padding-right:0.00vw;padding-bottom:0.00vw;padding-left:13.87vw;color:#434343;font-size:3.93vw;text-align:left;}
